@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "1914-06"
+citations: ["86 Misc. 7"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Cheifetz, Appellant, v. William Hills, Jr., Respondent."]
+source_url: "https://static.case.law/misc/86/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1877611
+---
+
+# Cheifetz v. Hills
+
+## Majority (Seabury, J.)
+
+Seabury, J.
+This is an action to recover damages for personal injuries. The defendant is a wholesale dealer in dried fruits and walnuts. The plaintiff entered the defendant’s store and, after having transacted some business with the defendant, a salesman of the defendant took him to another part of the store to inspect some walnuts. The plaintiff was a stranger in the store and followed where the defendant’s salesman led him. The walnuts were in bags and piled in rows about five feet high near the railing of the stairway. The plaintiff testified that he was unfamiliar with this room and knew nothing of the existence of the stairway; that the room was dark, and that as the defendant’s salesman attempted to take a bag of walnuts from one of the piles he (the plaintiff) stepped backward and fell down the stairway.
+It is conceded that the defendant’s salesman did not warn the plaintiff of the existence of the stairway. There was conflicting testimony as to whether the room was dark, or whether or not there was an electric light near the stairway. If the jury found as a fact that the room was dark and that the plaintiff was in a position of danger which was unknown to him, it was the duty of the defendant’s salesman to warn him of the existence of. this danger. Failure on the part of the defendant’s salesman to perform this duty constituted negligence.
+The court charged the jury that even if they find the facts to be as testified to by the plaintiff ‘ ‘ they may find a verdict for the defendant,” and instructed them that both the plaintiff and the defendant’s salesman were required to use reasonable care and prudence, and ‘ ‘ that degree of care and prudence that an ordinarily careful and prudent man would use under similar circumstances and conditions. ’ ’ After deliberation the jury returned to the court-room and asked the court whether the defendant’s salesman was required to warn the plaintiff of the existence of the stairway. The court refrained from answering this question, and the plaintiff’s attorney asked the court to charge “ that if the jury finds that there was a dangerous situation existing in the defendant’s place, it was the duty of the defendant and his agents to warn or otherwise apprise the plaintiff of such danger. ’ ’ To this request the court said: “I will refuse to charge that, but I will instruct the stenographer to read the charge of the court as it was given them at the conclusion of the trial.” To the refusal of the court to charge as requested, the plaintiff’s attorney duly excepted.
+We think the failure of the court to give the jurors specific instructions as to the duty of the defendant’s salesman to warn the plaintiff of the danger, provided they found that the place was dangerous and that the-danger was not known to the plaintiff, constituted error which resulted to the prejudice of the plaintiff. It was the rule of law upon this subject which the jurors desired to have the court declare to them. They could not intelligently render a verdict in the case unless they were informed as to the rule of law on the subject. The respondent contends that the court sufficiently instructed the jurors by directing their attention to the supposed conduct of the ordinarily prudent and cautious man, but this general instruction furnished the jurors with no light upon the question whether the defendant’s salesman was required to warn the plaintiff of his danger, provided the jury found that the plaintiff was in a dangerous position and that the danger was unknown to him. The general reference to the conduct of the ordinarily prudent and cautious man, under the circumstances disclosed, was not an adequate substitute for a specific instruction upon the subject in reference to which the jury indicated that they desired information from the court.
+The question of the. jurors indicated that they found the facts to be as testified to by the plaintiff, but that they were uncertain as to the duty of the defendant or his salesman to give the plaintiff warning of the existence of the danger presented by his proximity to the open stairway. Under these circumstances the refusal of the court to charge as requested could not have been other than prejudicial to the plaintiff.
+Page and Bijur, JJ., concur.
+Judgment reversed and new trial ordered, with costs to appellant to abide event.
