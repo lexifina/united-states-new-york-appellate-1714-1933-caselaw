@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1915-04-01"
+citations: ["33 N.Y. Crim. 156", "167 App. Div. 74"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE COMMISSIONER OF PUBLIC CHARITIES OF THE CITY OF NEW YORK ex rel. ROSE DZIOBOKO v. ALEXANDER VASSIE."]
+source_url: "https://static.case.law/ny-crim/33/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1211569
+cites_cases: ["32 App. Div. 625", "8 App. Div. 464", "83 Hun, 303"]
+---
+
+# Commissioner of Public Charities ex rel. Dzioboko v. Vassie
+
+## Majority (Per Curiam :)
+
+Per Curiam :
+The age of the complainant does not appear. But the proof is sufficient to show her settlement in Kings county when the bastard was born therein. (Code Crim. Proc. § 839; Poor Law [Consol. Laws, chap. 42; Laws of 1909, chap. 46], § 40.) And as her residence in New Jersey had not been for a period longer than six months when these proceedings were begun, her settlement was then in the said county. (Id.) Therefore, we think that the court had jurisdiction. (Poor Law, § 62.)
+The complainant was a domestic servant in the house of the defendant’s sister, and the defendant lived in that house. The complainant testifies that some time after 11 p. m. of July 19,1913, the defendant came to her bedroom and there and then had intercourse with her. The defendant denies intercourse at any time. He offered proof bjr his own testimony and that of his sister and her visitors that the complainant was absent over that night on a visit to her sister in New Jersey and did not return until" the following day. These witnesses single out the said July 19th by the circumstance that there were celebrations of birthdays in the family on the 18th and 19th of said July, respectively. But the mere fact of such celebrations did not necessarily point to the absence of the complainant, and the court was not satisfied by that proof. On the other hand, the defendant admits that he was present in the house at or about the time of the alleged intercourse.
+The complainant testifies that when she told the defendant that she was big with child, she said, “ You were with me. What are you going to do, marry me?” he answered, “No;” and she then said, “ I am going to arrest you,” and he said, “ All right, you can arrest me.” When defendant’s attention was called to this testimony, he admitted that the complainant told him he would “ have to marry her,” that he said he would not marry her, but testifies that he had no idea at the time why she should ask him to marry, and he did not ask. To a man entirely innocent, it would seem strange, not alone that the woman would ask the man to marry her, but also that this, woman, of lower station in life, would maintain that he must do so. If he had no idea at the time why she should do this, thing, it taxes credulity that he did not make some inquiry of .her.
+No corroboration of the plaintiff was necessary. (People ex rel. Kenfield v. Lyon, 83 Hun, 303; People ex rel. Chichester v. Jewel, 32 App. Div. 625.) We sec no reason why we should desturb the finding of the court upon the facts. (People ex rel. Garrett v. Ogden, 8 App. Div. 464.)
+The order is affirmed, with costs.
+Jenks, P. J., Burr, Cabr, Rich and Putman, JJ., concurred.
+Order of filiation of the Court of Special Sessions affirmed, with costs.
