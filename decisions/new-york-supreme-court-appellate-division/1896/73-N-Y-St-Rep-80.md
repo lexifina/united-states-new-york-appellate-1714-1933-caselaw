@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-02-26"
+citations: ["73 N.Y. St. Rep. 80"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Laird, Resp’t, v. Charles D. McGeorge, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/73/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990805
+cites_cases: ["139 N. Y. 384", "45 N. Y. 122", "54 St. Rep. 659"]
+---
+
+# Laird v. McGeorge
+
+## Majority (BISCHOFF, J.)
+
+BISCHOFF, J.
+The action was for rent, and the defense went to the duties of the landlord to repair, involving a counterclaim for repairs made by the tenant, and for damages sustained by reason of the condition of the roof of the premises.
+Whether or not there had been an agreement that the premises should be maintained by the landlord in a tenantable condition was primarily the issue, and, though a paper writing had been subscribed by the landlord to the effect that the premises should be tenantable, and kept so, it was also in evidenee, without objection, that this was not actually the agreement,-and that the parties had come to an understanding, that the premises should be accepted in their condition as found, except as to certain matters not now brought'into controversy. It was explained by the landlord that the paper alluded to had been signed hurriedly, by reason of the tenant’s haste, and that it was mutually apprehended to be merely a receipt for a payment"made by the tenant at the time. The justice below was satified with this explanation, and "with the parol evidence of the actual agreement; then, upon the record, we do not find reason to hold that the conclusion in favor of the landlord was unauthorized, since that conclusion could properly be reached upon evidence which, although not of the character required by law, was to be considered as properly in the case, through the failure of the opposing party to call for its exclusion. Crane v. Powell, 139 N. Y. 384; 54 St. Rep. 659. In the absence of the agreement by the landlord to repair, he is not answerable to the tenant for damage resulting to the latter from a want of necessary repairs. Doupe v. Grenin, 45 N. Y. 122.
+Judgment affirmed, with costs.
+All concur.
