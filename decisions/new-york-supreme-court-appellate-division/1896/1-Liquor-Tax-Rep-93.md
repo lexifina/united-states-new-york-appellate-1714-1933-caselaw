@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-10"
+citations: ["1 Liquor Tax Rep. 93"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of New York, Respondent, v. Henry W. Koenig, Appellant."]
+source_url: "https://static.case.law/liquor-tax-rep/1/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1290035
+cites_cases: ["81 N. Y. 215", "9 App. Div. 436"]
+---
+
+# People v. Koenig
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+On the 5th day of June, 1896, the appellant was arrested' within the city of New York and brought before a city magistrate, charged with violating section 290 of the Penal Code, in that he, the defendant, had sold beer to a minor under the age of sixteen years. When the defendant was arraigned for trial in the Court of Special Sessions he moved for a dismissal of the complaint on the ground that, under chapter 112 of the-Laws of 1896, known as the Liquor Tax Law, the court had no jurisdiction to try the case for the following reason: That the only way in which the defendant could be prosecuted was by way of indictment and trial in, a court of record having jurisdiction for the trial of crimes of the grade of a felony. This motion was denied. At the close of the People’s case the defendant renewed his motion, which was again denied; to both of which rulings the defendant duly excepted.
+The provision of the Penal Code which the appellant was alleged to have violated was subdivision 3 of section 290, which provides that a person who sells or gives away, or causes or permits or procures to be sold or given away to any child actually or apparently under the age of sixteen years, any beer, ale, wine or any strong or spirituous liquors, is guilty of a misdemeanor. This provision was enacted in 1889 (chap. 170), and was concededly in .orce up to the time of the going into effect of the Liquor Tax Law ibove mentioned; and there is no claim made but that until the passage of this latter law, offenses against the provision quoted were cognizable in the Court of Special Sessions of the city and county of New York unless the defendant demanded a trial by juryr, or thereafter the case was removed into .the Court of General Sessions.
+On the 23d of March, 1896, chapter 112 of the Laws of 1896, known as the Liquor Tax Law, was enacted; and by section 30 thereof it was provided, among other things, that “no corporation, association, copartnership or person, whether taxed under this act or not, shall sell or give away any liquors to (1) any minor under the age of eighteen years.”
+Section 34 declares, among other things, that any person who shall violate the provisions of this act by trafficking in liquor contrary to its provisions shall be guilty of a misdemeanor, and upon conviction thereof shall be punished by fine, etc.
+Section 35 provides that, “except as otherwise provided by this act, all proceedings instituted for the punishment of any violation of the provisions of the act, the penalties for which are prescribed in section 34, shall be prosecuted by indictment * * * and by trial in a court of record having jurisdiction for the trial of crimes of the grade of a felony.”
+It is urged upon the part of the appellant that section 290 of the Penal Code is impliedly repealed by chapter 112 of the Laws of 1896, and there undoubtedly would be considerable force in the contention had not the Liquor Tax Law itself provided as to what laws were repealed by it. By section 44, it repeals the provisions of “any special or local law, grant or charter in conflict with this .act.” The provision of the Penal Code in question was. not a special or local law, and, therefore, was not repealed by this-section of the act.
+Annexed to the act is a schedule of general laws, and the act provides that of the laws enumerated in this schedule that portion-specified in the last column is repealed. But section 290 of the Penal Code is not there mentioned. This clearly indicates that it .was not the intention of the Legislature to repeal any general, laws except those enumerated in the last column of this schedule. This view is further strengthened by section 728 of the Penal Code, which provides that “no provision of this code, or any part, thereof, shall be deemed repealed, altered or amended by the passage of any subsequent statute inconsistent therewith, unless such statute shall explicitly refer thereto and directly repeal, alter or amend this code accordingly.”
+The rule is well settled that repeals by implication are not favored, and that a statute is not to be deemed repealed by implication by a subsequent statute upon the same subject, unless the two are manifestly inconsistent with and repugnant to each other, or unless a clear intention is disclosed on the face of the later statute to repeal the former one. (Heckmann v. Pinkney. 81 N. Y. 215; People v. Jaehne, 103 id. 182; McKenna v. Edmund stone, 91 id. 231.)
+Applying these rules to the case at bar, it is evident that there was no repeal by implication of the provisions of the Penal Code. It is true that the appellant might have been proceeded against under the provisions of the Liquor Tax Law. But those provisions were not exclusive; the two acts could stand together, and it was the evident intention of the Legislature not to repeal any general laws except those referred to in the last column of the schedule above mentioned. It might be further suggested that the acts in question have not the same object. The provisions of the Penal Code upon this subject have in view the protection of children, while those of the Liquor Tax Law relate entirely to the regulation of the liquor traffic.
+It seems to be apparent, therefore, that the statutes are not at all in pari materia, and for this reason there could be no repeal by implication.
+We are of opinion that the conviction should be affirmed.
+Barrett, Rumsey, Williams and Patterson, JJ., concurred.
+Conviction affirmed.
