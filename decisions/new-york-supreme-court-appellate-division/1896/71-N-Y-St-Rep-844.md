@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-01-01"
+citations: ["71 N.Y. St. Rep. 844"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Ennis, App’lt, v. Arthur Brown, et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/71/cases/0844-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2125680
+cites_cases: ["113 N. Y. 511", "134 N. Y. 435", "141 N. Y. 358", "145 N. Y. 363", "23 St. Rep. 275", "46 Barb, 361", "47 St. Rep. 550", "5 Barb. 146", "57 St. Rep, 437", "64 St. Rep. 821", "86 N. Y. 575"]
+---
+
+# Ennis v. Brown
+
+## Majority (HATCH, J.)
+
+HATCH, J.
+action was brought for an accounting," and
+resulted in a decree settling the accounts of defendants, and directing a salé of the premises affected by this order. On the sale plaintiff bid in the property, and now seeks to be relieved therefrom. The chain of title shows a deed bearing date July 17, 1867, running from one Eldert and wife, as grantors, to Henry Eckert and associates. Under date of January 21, 1871, Eckert and wife conveyed the premises to Martin Kalbfleisch, in trust for the Ocean us Association. The first claim is that Eckert did not take a fee of the premises, as the deed was to himself and associates, and therefore he could not convey the fee. The deed to Eckert is absolute, vesting a fee; and nothing appears to show that there existed at any time, any associates of his in the title, or that lie was connected with any person or persons therein ; nor does there appear in the deed or otherwise any limitation upon his power to convey, or any disclosure of the purpose for inserting or referring to associates. It was said in Jarvis v. Babcock, 5 Barb. 146: “ The grantees must be plainly described, capable of contracting, and competent to take the estate.” The term “associates ” used in the deed in no sense answers this requirement It may therefore be disregarded as surplusage, or rejected for uncertainty. Towar v. Hale, 46 Barb, 361: Greenwood Lake & P. J. R. Co. v. New York & G. L. R. Co., 134 N. Y. 435; 47 St. Rep. 550.
+If Eckert held for himself and as trustee for others, the rule would not be different; he would still possess authority to convey a good title. King v. Townshend, 141 N. Y. 358; 57 St. Rep, 437.
+The restrictive stipulation contained in the deed that the premises should not be used for a tavern cannot affect the title. It was a mere personal agreement, and did not create a covenant running with the land. The deed from Eckert and wife to Kalbfleischer, as trustee for the association, by force of the statute of uses and trusts vested the legal title in the beneficiaries. Hopkins v. Kent, 145 N. Y. 363 ; 64 St. Rep. 821. The claim that there was no beneficiary capable of taking title cannot be sustained upon the facts. It is true that the date of the deed and acknowledgment was prior to the certificate of incorporation. But there is no proof that the deed was delivered on that date, and the presumption of delivery is sufficiently overcome by what followed. The certificate of the county clerk that the officer who took the acknowledgment was competent to take it was not made until the 18th day of May, 1871. The certificate of incorporation bears date March 6,1871, and was acknowledged before plaintiff as a notary on that day. The certificate of the county clerk that he was such notary was made upon the same day as the certificate upon the deed, and this was followed by record of both instruments on the next day. The association immediately entered into possession of the premises, and it and its grantors have been in continual occupancy since. These acts, and the occupancy thereunder, we think sufficient to show that the deed took effect at' a time when the association was competent to take and vested it with legal title. O’Connor v. Huggins, 113 N. Y. 511; 23 St. Rep. 275; Shriver v. Shriver, 86 N. Y. 575. No reasonable doubt attends upon his title. The same is good and marketable.
+We conclude, therefore, that the order appealed from should be affirmed, with costs and disbursements.
+All concur.
