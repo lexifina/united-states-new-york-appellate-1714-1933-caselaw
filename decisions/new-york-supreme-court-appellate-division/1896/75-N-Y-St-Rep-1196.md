@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-11-20"
+citations: ["75 N.Y. St. Rep. 1196"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["New York & N. J. Globe Gaslight Co., Limited, v. Metropolitan Inv. Co. of New York et al."]
+source_url: "https://static.case.law/ny-st-rep/75/cases/1196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1996882
+---
+
+# New York & New Jersey Globe Gaslight Co. v. Metropolitan Investment Co.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+—This action was brought to foreclose a mechanic’s lien. The alleged lien was not established, but the plaintiff obtained a money judgment representing the purchase price of a gas machine and other mechanical appliances put up on the appellant’s premises at Edgewood, Long Island, and the value of certain labor performed in connection therewith. The appellant denied that the purchase was made' with its authority. The proposition to furnish the gas machine was contained in a letter sent .by the'plaintiff to Mr. Howard P. Wheeler, "who was addressed therein as the president of the Metropolitan Investment Company. Three days later, a written order for the machine was sent to the New "York & New Jersey Globe Gaslight Company, signed by Mr. Wheeler with his own name, and that of Mr. J. M. Applebaum, the secretary of the investment company. The corporate name of the appellant is not mentioned in this paper, and the establishment at Edgewood is spoken of as “ my factory.” Nevertheless, the proof suffices to show"quite clearly that Mr. Wheeler was authorized to buy, and did buy, in behalf of his corporation. There were only three directors, Mr. Applebaum, a Mr. Lindgren, and himself. They discussed the subject of a gas plant for the factory at one of the meetings of the board, and left the matter in the hands of Mr. Wheeler, who went on, and made the purchase. The testimony in regard to this meeting justifies the inference that Messrs. Wheeler and Applebaum, constituting a majority of the board, then and there agreed as to the propriety of buying-the gas machine, and that Mr. Lindgren, the third member, acquiesced in their determination. But the appellant’s certificate of incorporation provides “ that no debts shall be contracted, or liability incurred, or contract made or entered into by or on behalf of this corporation, involving a sum or a liability for a sum of $100 or over, unless the same be by a writing under the corporate seal of this corporation; and all contracts or agreements in violation hereof shall not be binding on the corporation unless duly ratified by its board of directors; ” and it is urged that this limitation was sanctioned by the business corporations law (chapter 691, Laws 1892), and that it made the contract for the purchase of the gas machine ultra vires, inasmuch as it was not under seal. Assuming thé validity of the limitation, we think that the making of the agreement with the knowledge and assent of all the directors manifested at a meeting in advance of the transaction must be deemed equivalent in law to a ratification thereof by the board, within the above terms of the certificate of incorporation.
+The judgment is affirmed, with costs.
