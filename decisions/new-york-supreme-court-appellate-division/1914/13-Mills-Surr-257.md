@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1914-07-31"
+citations: ["13 Mills Surr. 257", "163 A.D. 652"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Proving a Codicil to the Last Will and Testament of Charles H. Senff, Deceased. Effingham Lawrence, Respondent; Frederick W. Senff and Gustavia A Senff, Individually and as Executors etc., of Charles H. Senff, Deceased, and Lee Charles Jeffreys, an Infant, Appellants."]
+source_url: "https://static.case.law/mills-surr/13/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1087592
+---
+
+# In re Proving a Codicil to the Last Will & Testament of Senff
+
+## Majority (Stapleton, J.)
+
+Stapleton, J.
+Charles H. Senff died on the 23d day of August, 1911, leaving á will that he published on- June 18, 1888. That will was admitted to probate on the 26th day of September, 1911. The value of his estate was, approximately, $10,000,000. / '
+On October 27, 1910, Effingham Lawrence, the respondent herein, caused a form of codicil to be prepared, with the testator’s name left blank in the body thereof. On November 1, 1910, while the testator was suffering from progressive pernicious anaemia, Lawrence, accompanied by his -wife and chauffeur, and presumably with the form of codicil in his pocket, called at Mr. Senff’s home. At that visit Mr. Senff personally filled in the blank and signed and published the codicil. The witnesses were Lawrence’s wife and his chauffeur. Lawrence was the only other person present. Lawrence took possession of the signed and attested codicil and retained it in his possession until the petition for probate was filed on the 13th day of November, 1911.
+The codicil by its terms gave to I^awrence an indebtedness of $635,000 that was owing by Lawrence to Senff at the time of the latter’s death.
+By the terms of the will the property of Mr. Senff was devised and bequeathed to his widow for life, with remainder to collateral relatives. There was no issue surviving.
+The widow, executors and collateral relatives contested in the proceeding for the probate of the codicil. The learned surrogate sustained the codicil as the free act of a competent testator, and from the decree entered upon that decision this appeal is taken.
+There was evidence that at the time he signed the codicil Mr. Senff was suffering from cerebral lesions and lesions of the spinal cord; that he had so suffered for thirteen months preceding the act of signing, and that his condition indicated progressive paralysis, the symptoms of which were, however, not marked until October, 1910 — the month preceding the signing. A medical witness, who had attended him professionally, testified that he was mentally incompetent to sign the codicil; but this same witness was unable to call to mind one single act, deed, word or expression that was indicative of insanity or mental unsoundness.
+McVeigh, a nephew of Mrs. Senff, testified that at times in the fall of 1910 he found the testator crying and laughing and sobbing. He would laugh inordinately at a story. He had some lapses of memory.
+Mrs. McVeigh, the sister of Mrs. Senff, testified to Mr. Senff’s physical deterioration in the fall of 1910. He was tired arid restless. He showed failure of memory. He failed to greet her, and when she greeted him he cried. He became easily fatigued and 'was hysterical. He became obsessed with the fear that a picture and the bulb of an electric fixture would fall upon him, and he had them removed. Hoise and light affected him uncomfortably.
+Wallace, a relative, observed, in 1910 and 1911, a moderating of the testator’s dominant personality, a diminution in the usual interest that he had shown in his estate, a loss of memory and confessions of loss of memory, and a tendency to doze.
+There was other evidence of loss of memory, lack of continuity of thought, and lack of interest.
+On behalf of the proponent there was evidence that the testator, up almost to the time of his death, kept, either personally or by entries made under his personal direction, an accurate account of his intricate, large and multiplex transactions, and that, with neighbors and friends, he discoursed rationally and interestingly on current topics and particularly on matters relating to farming, which, apparently, he had made a hobby.
+Mrs. Janet H. Lawrence, the mother of the respondent, described the long friendship existing between the' Senff and Lawrence families, originating between Mr. Senff and the grandfather of the beneficiary at the old Lawrence homestead in Louisiana, interrupted for a period, renewed many years after-wards at Whitestone, Long Island, and continued uninterruptedly thereafter, with frequent exchanges of visits, until the testator’s death. She testified to the deep interest of Mr. Senff in the younger Lawrence, as child and man, and of his substantial aid evidenced by the advancement, without security, of various sums ranging in amount from $25,000 to $500,000.
+There was evidence to show that at the time of the publishing of the codicil testator spoke and acted rationally.
+Promissory notes evidencing the indebtedness of Lawrence, known to have had existence, were not produced on the hearing by the legal representatives of the deceased.
+The benefaction was large; the transaction was clandestine; the conduct of the testator and the beneficiary, relating to the execution of the codicil, was unusual; but the testator was an extraordinary man. He was mentally sound, immensely wealthy, and peculiarly masterful. It is demonstrated that he knew precisely the value of his estate and that he amply provided for the natural objects of his bounty. When unquestionably in full physical and mental vigor, his treatment of the beneficiary was remarkably generous and his concern for the beneficiary’s material advancement romantically solicitous. His transactions with Lawrence were not attended with any of the ordinary safeguards of business. A search for the motive which actuated him in making the bequest and in pursuing the method by which he made it (if indeed there was a motive other than one- of disinterested friendship) would end in fruitless speculation. The safe presumption is that he intended the natural consequences of his act.
+There was sufficient evidence to warrant the surrogate in determining the genuineness of the codicil, the validity of its execution, and the competency of the testator to make it. There was evidence which clearly .proved that at the time of the making the testator was neither restrained nor unduly influenced. The law requires nothing more in a proceeding to probate, notwithstanding that the beneficiary, who is not a natural object of the testator’s bounty and is by the terms of the instrument bequeathed a large legacy, caused the physical preparation of the testament, procured the attendance of the witnesses, retained possession of the executed instrument, and that he and the testator kept secret the circumstances of the execution of the codicil and the knowledge of its contents.
+It is hardly needful to allude to the revocable quality of the instrument and the long time that elapsed between i'ts making and the death of the testator, during which revocation could have been made by Mr. Senff, free from any possibility of Lawrence’s influence or control.
+I advise affirmance of the decree.
+The decree of the Surrogate’s Court of 'Queens county should be affirmed, with costs to the respondent payable out of the estate.
+Jentcs, P. J., Burr, Carr and Putnam, JJ., concurred.
+Decree of the Surroate’s Court of Queens county affirmed, with costs to the respondent payable out of .the estate.
