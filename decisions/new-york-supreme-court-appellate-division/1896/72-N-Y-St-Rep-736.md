@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-02-04"
+citations: ["72 N.Y. St. Rep. 736"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Cooper, as Administrator, etc., Resp’t, v. Mertopolitan Life Insurance Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/72/cases/0736-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988194
+---
+
+# Cooper v. Mertopolitan Life Insurance
+
+## Majority (PRATT, J.)
+
+PRATT, J.
+—At the close of the plaintiff’s case the defendant moved to-dismiss, and specified as the grounds thereof (1) that' the beneficiary was the estate of the person whose life was insured ; (2) that no contract existed between the parties; (3) that the loss was not proved upon blanks furnished by the defendant; (4) that he had not proved facts constituting cause of action.
+The first policy issued named as beneficiary Mrs. Cooper, wife of the plaintiff. The company delivered the policy to Mrs. Cooper, and thereafter the company collected the premiums from Mrs. Cooper and her husband. Thereafter Mrs. Cooper, the beneficiary, died, and the agent of the company called upon the plaintiff, and said a new policy should be issued, which was done, and the beneficiary therein specified was “Estate.” The agent of the company told plaintiff the policy was all right; and, if plaintiff gave the matter any thought, he doubtless supposed, and, we think, properly, that the “ estate” referred to was that of the deceased beneficiary, Mrs. Cooper. Mrs. Cooper paid the premiums until the death of the person whose life was insured. Proofs of loss were made, which the company accepted as satisfactory, and said they would pay the claim if letters of administration were produced upon the estate of the person whose life was insured. This was declined, and. plaintiff brought this suit. We think that, upon these facts, the circuit judge properly held that the “estate" referred to in the new policy was the estate of the beneficiary named'in the original policy. That being so, the company had no concern with the estate of the person whose life was insured, and the first two grounds upon which the defendant moved to dismiss are answered.
+The objection that the loss' was not proved upon blanks provided by the company is frivolous. If that requirement was to be insisted on, the time to do that was when the proofs of loss were first submitted to the company. To allow them to accept the proofs then supplied, and to raise the objection on the trial, would not be in furtherance of justice. The only other ground on which the company moved to dismiss was that the plaintiff had not proved facts sufficient to constitute a cause of action. Mo other defect in proof was pointed out. Had any other been suggested, very likely it would have been supplied. Mo exception was taken to the action of the court in directing the verdict for the plaintiff.
+Judgment affirmed, with costs.
+All concur.
