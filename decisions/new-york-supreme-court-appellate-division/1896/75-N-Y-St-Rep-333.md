@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-07-29"
+citations: ["75 N.Y. St. Rep. 333"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Malkmesius v. Pauley et al."]
+source_url: "https://static.case.law/ny-st-rep/75/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1997085
+cites_cases: ["38 N. Y. Supp. 851", "39 N. Y. Supp. 1095", "4 App. Div. 382"]
+---
+
+# Malkmesius v. Pauley
+
+## Majority (DALY, P. J.)
+
+DALY, P. J.
+A case in the appellate division, reported since the argument of this appeal, is relied upon in support, of this motion. The decision in question (Bank v. Wallace, 4 App. Div. 382, 38 N. Y. Supp. 851) holds that a general assignment for the benefit of creditors, made by a co-partnership, is not vitiated by the fraud of one partner in diverting (without the knowledge of the others) funds of the firm to the payment of his own debts, nor by his design, equally unknown to his co-partners, to secrete its assets to his own use. This betrayal of his trust does not impeach the good faith of the firm, who were in fact defrauded by him, and who, when his fraud was discovered, made the assignment in order to protect their creditors. But what would have been the decision of the court if the fraud of the co-partner, instead of being directed against his fellow members in the firm, had been in their interest,—if the fraud consisted in concocting a false schedule of liabilities and making an assignment'in order, to thus defraud their creditors? Upon such a state of facts the innocent members of the concern would not be permitted to reap the benefit of their co-partner’s fraud; and if it appeared that he had been able to effect it by their surrender of the whole control of the business to him, and that they made the assignment and schedules as he dictated, the court would not have assisted the attempted fraud by holding the assignment to be valid. The assignors in this case stand in that predicament, and the fraud in the case was perpetrated by their managing agent for their benefit, or at least for the benefit of the assigned assets; the assignors being nominally such owners, while the agent had the exclusive control and management of the business, if not the exclusive interest in it. He was the husband of one of the assignors. He failed in business, and was carrying on a concern nominally for his wife and another party, who knew nothing of its circumstances, and left it entirely to him. They executed the assignment at his suggestion. It was an attempt to defraud the creditors of the business, and cannot be sustained on the ground that they were personally ignorant of the intention of the agent. So far as the validity of the instrument is concerned, his intention is to be deemed their intention, as their acts simply effectuated his fraudulent purposes.
+The motion should be denied..
