@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1914-03"
+citations: ["31 N.Y. Crim. 138", "161 App. Div. 196"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. DOMINICK DI PASQUALE."]
+source_url: "https://static.case.law/ny-crim/31/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1207926
+---
+
+# People v. Di Pasquale
+
+## Majority (Kellogg, J.:)
+
+Kellogg, J.:
+April 2, 1906, Quirrito Dimassimo died, and in October, 1913, the defendant was indicted for the crime of murder in the second degree for having caused his death and was convicted of an attempt to commit that crime.
+Under section 141 of the Code of Criminal Procedure there is no limitation of time within which a prosecution for murder must be commenced. Section 142 requires that an indictment for a felony other than murder must be found within five years after its commission except where a less time is prescribed by statute. In this case the homicide was committed more than five years prior to the indictment and it is evident that the defendant could then be indicted for no crime in connection therewith other than murder. If the indictment had been for an attempt to commit murder, or for one of the degrees of homicide, it is clear that the lapse of time would be a perfect defense. The question is whether the defendant can be deprived of that defense by an indictment for murder.
+By section 4 of the Code of Criminal Procedure a crime must be prosecuted by indictment. It would, therefore, seem that a conviction for an attempt to commit murder cannot be prosecuted except by an indictment obtained within five years after the commission of the offense.
+It is urged that the provisions of section 610 of the Penal Law, which provide that upon the trial of an indictment the defendant may be convicted of the crime charged therein, or of a lesser degree of the same crime, or of an attempt to commit the crime so charged, or of an attempt to commit , a lesser degree of the same crime, make the defendant punishable for a crime for which the statute prescribes that he may not be indicted. In other words, that the lapse of time only bars an indictment, but is no bar to a prosecution or punishment if the defendant can be brought into court by charging him with a higher crime. I think this section fairly means that under an indictment for a crime he may be convicted of a lesser degree or an attempt to commit the crime if he is liable to be prosecuted and punished for such attempt. In other words, the indictment need not charge the crime itself and an attempt to commit the same crime, but the defendant may be found guilty of the crime or an attempt to commit it upon the main charge. Ordinarily a crime cannot be committed without an attempt to commit it, but the attempt is merged in the completed crime and, therefore, ceases to be a punishable offense. The charge of murder, therefore, naturally carries with it the charge that there was an attempt to commit the murder, and if the proof falls short of proving the murder, but shows an attempt, the defendant may be convicted of the attempt in the same manner as though he had been indicted therefor. In effect the section is a rule of pleading and does away with the necessity of alleging every lesser degree of the crime or an attempt to commit the crime, evidently for the reason that if the defendant is defending himself against the charge of having committed the crime he is equally defending himself from the charge of having attempted to commit the crime. But when the defendant is absolved from prosecution for the attempt to commit the crime, this statute cannot make him liable therefor. It only applies in a case where a defendant is liable to be indicted for an attempt to commit the crime. I think, therefore, under the indictment the defendant could be convicted only of murder, and that the lapse of time prevents a conviction for any other crime in connection with the death.
+The case upon the facts is a peculiar one. The principal witness is the defendant’s daughter, who claims to have seen the defendant commit the crime and to have concealed the fact until the complaint, many years after. She and her husband were then actuated by hatred to him and prompted by a spirit of revenge. Her evidence has no substantial corroboration, is not in itself reasonable and is in conflict with the general facts of the case. Without going through the facts in detail, it is sufficient to say that the conviction is entirely unwarranted by the evidence and the verdict is against the evidence." The conviction is, therefore, reversed upon the ground that it is against the law, and also upon the ground that the evidence does not warrant a conviction.
+All concurred; Woodward, J., on the first ground stated.
+Judgment of conviction reversed and new trial granted, upon the ground that it is against the law, and also upon the ground that the evidence does not warrant it.
