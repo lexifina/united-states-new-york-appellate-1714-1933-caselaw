@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1906-01"
+citations: ["20 N.Y. Crim. 246", "110 App. Div. 699"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. HENRY SNYDER."]
+source_url: "https://static.case.law/ny-crim/20/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 807189
+cites_cases: ["180 N. Y. 148", "97 N. Y. 64"]
+---
+
+# People v. Snyder
+
+## Majority (Houghton, J.:)
+
+Houghton, J.:
+The defendant was indicted for the crime
+of grand larceny committed on the 20th of February, 1905, in feloniously obtaining certain merchandise by false representations and personation.
+Under the name of Harry Farr, and under the firm style of John Farr & Bro., the defendant opened correspondence with a Cincinnati packing company with regard to the purchase of hams, bacon and lard. The company directed its representative in Hew York city to visit the defendant’s place of business for the purpose of procuring his order for goods, and the defendant then stated that he was a brother of John Farr, engaged in business with him, and that John was in the West Indies, and that while the firm was not rated, the rating of his brother John could be found in Dun’s Mercantile Agency. Upon investigation it was found that the commercial rating of John Farr was good, and relying upon the defendant’s statements, the agent of the packing company recommended to his principal acceptance of the defendant’s order. Thereupon the defendant, in the firm name of John Farr & Bro., ordered more than $500 worth of provisions, which were delivered to him. The defendant’s name was not Farr, but either Snyder or Hager don, under both of which he was known. He is not a brother of John Farr, nor was he engaged in business with him, nor did any such firm exist as John Farr & Bro. That the defendant obtained from the possession of the true owner personal property of the value' of more than $500 by aid of fraudulent and false representa-' tion and pretense was quite conclusively proven, and having done so he was guilty of the crime of grand larceny, for which" he was convicted. (Penal Code, §§ 528, 530.)
+It is urged that the false pretenses related to the ability of the defendant to pay, and that, therefore^ under the provisions of section 544 of. the Penal Code, they must have been in -writing and signed in order to constitute a crime. The false representations proved against the defendant did not relate to his means or ability to pay, but they were representations of an independent fact, that he was a member of a firm, one of the partners of which was his brother, and had a good financial standing and rating. Such false representation is of an independent fact not relating solely to financial ability, and it is not necessary that it should be in writing and signed in order to be criminal. (People v. Rothstein, 180 N. Y. 148.)
+It is also .insisted that there is no proof that the defendant intended to defraud the owners of their property or appropriate it to his own use. The defendant must be presumed to have intended the natural and probable consequences of his oun acts. (People v. Conroy, 97 N. Y. 64, 78.) He represented that he was a brother and partner of a business man in good standing, and because of that asked the owners to deliver to him certain property. The jury had a right to find that by his false representations he intended to induce the owners to part with their" property and to appropriate it to his own use. The court left' to the jury the question as to- whether or not the defendant intended to obtain possession of the goods in question by the false representations "which he was proven to have made; and also the question as to whether or not the owners relied upon those representations in delivering them to him. Both were questions for them to determine, and the evidence justified their verdict. Complaint is made that the court in his charge did not use the term “ felonious ” in instructing the jury as to the defendant’s intent. This omission did no harm, and its use would not have enlightened the jury to any greater extent than did the charge as given.
+USTo errors were committed upon the trial in the receipt or rejection of evidence, or in the refusals to charge, which call for a reversal of the judgment, and it must be affirmed.
+O’Brien, P. J., Ingraham, Laughlin and Clarke, JJ,, concurred.
+Judgment affirmed.
