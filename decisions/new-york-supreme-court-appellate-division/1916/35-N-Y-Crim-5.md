@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1916-05-03"
+citations: ["35 N.Y. Crim. 5", "173 App. Div. 342"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. BENJAMIN KUDON."]
+source_url: "https://static.case.law/ny-crim/35/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1216989
+---
+
+# People v. Kudon
+
+## Majority (Howard, J.:)
+
+Howard, J.:
+The defendant was indicted and convicted of having received stolen goods — a quantity of brass railing. The prosecution relied chiefly upon the evidence of two witnesses who openly confessed that they were the thieves who stole the property from the rightful owner. -These thieves swore that they 'stole the brass from a launch and sold it to the defendant, and that they told the defendant at the time of the sale that the brass was stolen property. If the defendant was guilty of the crimh charged the thieves were accomplices. A conviction cannot be based upon the uncorroborated evidence of an accomplice. (Code Crim. Proc. § 399.) This was the law before the Code; it has been the law for generations. The courts regard the evidence of a particeps criminis as spurious and worthless unless corroborated by the words of honest men. What constitutes sufficient corroboration has been much written upon. It would not be germane to our purpose to discuss the subject here further than to observe that the corroboration must be substantial and must tend to render probable the story of the accomplice.
+In the case at bar the corroborative evidence was very slender. Elenora Collins, the mother of one of the thieves, was the chief witness relied upoh by the district attorney to confirm- the evidence of the- accomplices. She testified, in substance, that the-defendant, conceiving the scheme of spiriting away one of the witnesses beyond the reach of the district attorney and beyond the reach of a subpoena, and thus securing his own immunity from conviction, asked her to try to induce her son Bodah, the thief, to “ skip ” to Canada. She further testified that the defendant offered, in case she succeeded in persuading her son-to flee from justice and thus forfeit his bail, that he, the defendant, would pay half the bail if she would pay the other half. ,Her story of the alleged attempt of the defendant to tamper with the People’s witness was, apparently, given full credit by the jury and must have had a decisive effect upoh their deliberations. It evidently impressed them as a strong indication of guilt. It must have been regarded by them as wholly inconsistent with innocence and as tending directly “ to connect the defendant with the commission of the crime.” At all events, it was significant evidence, and if not explained or contradicted, it was highly detrimental to the defendant.
+Since the trial the defendant has discovered, so he alleges, the evidence of three witnesses which, if believed, will wholly do away with the evidence of Elenora Collins, and completely destroy its corroborative effect. By these newly-discovered witnesses the defendant alleges that he can prove that it was not he, but the Collins woman, who proposed the scheme of spiriting away the witness Bodah — a scheme which the defendant rejected. The Collins woman was an interested witness. She was quite naturally concerned for the safety of her son; and if the evidence of these three witnesses be pitted against hers at a new trial, it is quite possible that another jury may not believe her. If her evidence be destroyed no judgment of conviction against the defendant can stand, for there is no other corroboration of sufficient weight to put vitality and probability into the story of the thieves. The newly-discovered evidence is such, therefore, that, if believed, it is likely to change the result, if a new trial be granted.
+The reputation of the defendant has hitherto been so good, and the evidence against him is of such a dubious character, that we feel impelled to grant him another opportunity to go before a jury where all the available evidence can be produced and considered.
+Having reached this conclusion it is unnecessary to consider the appeal from the judgment of conviction. That appeal is, accordingly, dismissed.
+All concurred.
+Order reversed and motion for new trial granted.
+On appeal from judgment of conviction: Appeal dismissed.
