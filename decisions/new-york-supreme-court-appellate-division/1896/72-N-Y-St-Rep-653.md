@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-02-04"
+citations: ["72 N.Y. St. Rep. 653"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morris Robinson, Resp’t, v. Metropolitan Insurance Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/72/cases/0653-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988185
+cites_cases: ["117 N. Y. 310", "14 N. Y. 253", "27 St. Rep. 326"]
+---
+
+# Robinson v. Metropolitan Insurance
+
+## Majority (CULLEN, J.)
+
+CULLEN, J.
+—The action is to recover $176, the amount oE an insurance effected by the plaintiff on the life of Ms daughter. This daughter was, from a short time after birth, an idiot and a cripple. The plaintiff can neither read nor write, and the defendant’s agent who took the plaintiff’s application could write but very little more than his own name. According to the evidence of the plaintiff, he was approached by the defendant’s agent and asked to take out this insurance. The agent saw the daughter, and the plaintiff stated to him what had been her condition. In other respects than those indicated, she seems to have been in good physical health. The agent, being unable to write, had the plaintiff make his mark to a blank application. This was taken to one of the local superintendants of the defendant, who was informed of the condition of the woman insured. The answers to the questions contained in the application were then filled up in the superintendent’s office, and a policy of insurance issued by the defendant, The plaintiff paid the weekly premiums for almost five years, when his daughter died. There was also evidence that, during this period, some of: the superintendents and agents had visited the plaintiff, and seen the daughter, who appears to have been regarded by them as an object of curiosity.
+We think the motion to dismiss the complaint was properly denied. If the plaintiff made true answers to the questions contained in the application, he was not responsible for the falsity of the answers inserted by defendant’s agents. O’Brien v. Home Ben. Society, 117 N. Y. 310; 27 St. Rep. 326. The provision in the policy that no obligation was assumed by the defendant unless, at its date, the insured was alive and in sound health, did not void the policy. The term “sound health” is capable of different meanings. An idiot may be in sound health physically, and the same is also true of a cripple. If the defendant, at the time it issued the policy, was apprised of the actual condition of the insured, the term “sound health" should be construed as referring only to her physical condition, apart from her mental imbecility or the fact that she was crippled.
+Nor was the plaintiff absolutely barred from maintaining the suit by the lapse of time between the death of the insured and the commencement of this action. The policy does provided that the action must be brought within six months after the death of the insuree; but this condition could be waived, and the defendant, by its conduct, estopped from setting up that defense. Ames v. Insurance Co., 14 N. Y. 253. In this case the defendant prepared and received from the plaintiff proofs of loss, which according to the terms of the policy, must be made on their own blanks. It had also taken from him the policy, and the receipt or pass book, showing the payment of the premiums. According to his story, evasive answers were given to his application for payment, and his book and policy still retained. As soon as notified of the positive refusal of the company to pay, he began this action. We think this course of conduct by the defendant operated as a waiver of the condition. It was but fair that, if they had rejected the claim, they should have sought out and returned to the plaintiff the policy and papers which they had obtained from him. The policy alone contained the six-months limitation, and it may well be that the plaintiff, an ignorant man, had no knowledge of this condition, and would havd none until the defendant returned the policy. To keep this policy, and then refuse to pay, on the ground of lapse of time, would operate as a fraud.
+The request to charge (at folio 134) was refused by the court, other than as it had charged. We think in this there was no-error. The court had already charged that the limitation was six months from the death of the person insured. If the request asked the court to charge only to that effect, the repetition was unnecessary. If the request went beyond that, it would be bad, as exeluding the possibility of waiver or estoppel.
+The judgment and order denying motion for a new trial should be affirmed, with costs.
+All concur.
