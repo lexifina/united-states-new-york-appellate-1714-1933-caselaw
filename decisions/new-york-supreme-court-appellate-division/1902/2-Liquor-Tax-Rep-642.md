@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1902-03"
+citations: ["2 Liquor Tax Rep. 642"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of New York ex rel. David Stevenson Brewing Company, Appellant, v. Henry H. Lyman, State Commissioner of Excise, Respondent."]
+source_url: "https://static.case.law/liquor-tax-rep/2/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1293530
+cites_cases: ["168 N. Y. 258", "168 N. Y. 669", "53 App. Div. 470", "67 App. Div. 446"]
+---
+
+# People ex rel. David Stevenson Brewing Co. v. Lyman
+
+## Majority (Willard Bartlett, J.:)
+
+Willard Bartlett, J.:
+This appeal raises two questions: (1) Whether a peremptory writ of mandamus should issue in favor of a person surrendering a liquor tax certificate, directing the State Commissioner of Excise to pay the statutory rebate where facts are alleged in opposition to the application, which, if true, show that the applicant has not voluntarily ceased to traffic in liquors during the term for which the tax was paid under the certificate; and (2) whether an order of discharge by a city magistrate of the city of New York, reciting a determination that there is no sufficient cause to believe the accused person guilty of a violation of the Liquor Tax Law, is a dismissal of the proceedings on the merits, within the meaning of section 25 of that statute.
+It seems to me that the second of these questions is no longer open to discussion. In the case of People ex rel. Fallert Brewing Co. v. Lyman (53 App. Div. 470) it appeared that the city magistrate “found there ivas not sufficient evidence to hold defendant for trial,” and, therefore, discharged her. This was held to be an acquittal and dismissal on the merits; and the decision of this court to that effect has since been affirmed by the Court of Appeals. (168 N. Y. 669.)
+The affidavit in behalf of the relator herein sets out the issue of a liquor tax certificate to Harry Barry; the assignment thereof to the David Stevenson Brewing Company; the presentation of a petition to the State Commissioner of Excise for the rebate upon the unexpired term of said certificate; the delivery of the duplicate receipts required by the statute; the arrest of Barry within thirty days of the surrender for a violation of the Liquor Tax Law; and his trial and acquittal upon such charge.
+The papers read in opposition to the application denied that the charge against Barry before the said, city magistrate was dismissed on the merits, and set out three separate violations of the Liquor Tax Law by Barry during the term for which the tax was paid. One of these violations was the basis of the criminal prosecution which resulted in the dismissal of the accusation, but no criminal charge had ever been made against him with reference to the two other alleged violations.
+I have already shown that, under the authority of the Fallert case, the proceedings before the city magistrate must be regarded as having been dismissed on the merits, and, therefore, that the prosecution on that charge afforded no reason for denying the relator’s application. As to the other matters, however, the contention of the State Commissioner of Excise is that a violation of the Liquor Tax Law, by trafficking in liquors after the surrender of the certificate and within the term for which the tax was paid, is in itself sufficient to defeat a claim for the recovery of the rebate, although no prosecution has ever been instituted on account of such violation.
+I think such is the effect of the provisions contained in section 25 of the Liquor Tax Law. This is the view which has been taken by the Appellate Division in the first department in the recently decided case of People ex rel. Stevenson Co. v. Lyman, certificate of John Michels (67 App. Div. 446), where it is held that to entitle the holder of a liquor tax certificate to a rebate thereon he must voluntarily have ceased to traffic in liquors, and that the existence of this cessation is a condition precedent to the recovery of such rebate. “It seems to me,” says Van Brunt, P. J., “that the right to the rebate is to be construed as resting upon a contract between the licensee and the State. If such is the case clearly the party claiming must show compliance with all conditions precedent.”
+In People ex rel. Frank Brewery v. Cullinan (168 N. Y. 258), the Court of Appeals, after setting out so much of section 25 as relates to the subject under discussion here, declares, through Haight, J., that upon a careful consideration of such provisions it is apparent that the conditions imposed are conditions precedent. Under this construction of the statute it seems to me that the affirmative allegations in opposition to the relator’s application, to the effect that the person to whom the certificate was issued had not ceased to traffic in liquors during the term for which the tax was paid, entitled the respondent to a trial of that question as an issue of fact, and, therefore, that the learned judge who heard the matter at Special Term was right in deciding it as he did, that the relator might have an alternative writ, if he wished, but that' he had not made out a case for a peremptory mandamus.
+The order should therefore, be affirmed.
+All concurred.
+Order affirmed, with ten dollars costs and disbursements.
