@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1915-07"
+citations: ["33 N.Y. Crim. 415", "168 App. Div. 835"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. WILLIAM SANGER."]
+source_url: "https://static.case.law/ny-crim/33/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1211610
+cites_cases: ["126 App. Div. 72", "146 App. Div. 633", "157 N. Y. 528", "31 App. Div. 139", "99 App. Div. 372"]
+---
+
+# People v. Sanger
+
+## Majority (McLaughlin, J.:)
+
+McLaughlin, J.:
+The defendant was arrested upon a complaint charging him with the crime of “ uttering an advertisement, purporting to-give information where, how, when, of whom, and by what means an article purporting to be for immoral use, could be obtained.” (Penal Law, § 1141, subd. 1.)
+After a hearing before the magistrate who issued the warrant, the defendant wás held for trial before the Court of Special Sessions for the county of New York, and pending such trial was admitted to bail in the sum of $500. Thereafter he was arraigned before the Court of Special Sessions, pleaded not guilty, and a day fixed for the trial. The defendant thereupon moved, before the Court of General Sessions of the City and County of New York, that a certificate be granted that it is reasonable that the charge shall be prosecuted by the indictment. (Inferior Criminal Courts Act of the City of New York [Laws of 1910, chap. 659], § 31, subd. 1, clause c, as amd. by Laws of 1911, chap. 576.) The motion was denied and defendant appeals.
+There is no right of appeal in a criminal case unless the same be given by statute (Matter of Montgomery, 126 App. Div. 72), and the only provision of the statute which permits an appeal is from a judgment of conviction. (Code Crim. Proc. § 517.) The order appealed from is an intermediary one, and, therefore, is not appealable. (People v. Dunn, 31 App. Div. 139; affd., 157 N. Y. 528; People v. Martin, No. 1, 99 App. Div. 372; People v. Di Bol, 105 id. 640; Matter of Montgomery, supra, and authorities there cited; People v. Hyde, 146 App. Div. 633.) It can be reviewed only on appeal from the judgment of conviction.
+It follows that the appeal must be dismissed.
+Ingraham, P. J., Laughlin, Clarice and Scott, JJ., concurred.
+Appeal dismissed.
