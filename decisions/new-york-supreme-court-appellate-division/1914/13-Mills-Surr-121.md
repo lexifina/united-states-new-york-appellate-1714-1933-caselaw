@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1914-05-15"
+citations: ["13 Mills Surr. 121", "162 A.D. 510"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George R. Comrie, Appellant, v. Anna M. Kleman and Others, as Executors of and Trustees under the Last Will and Testament of John Schnugg, Deceased, and Francis J. Schnugg, Individually, Respondents."]
+source_url: "https://static.case.law/mills-surr/13/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1087542
+cites_cases: ["140 N. Y. 368"]
+---
+
+# Comrie v. Kleman
+
+## Majority (Scott, J.)
+
+Scott, J.
+The action is by a purchaser at a sheriff’s sale to compel the executors of John Schnugg, deceased, to pay over one-third of the proceeds of the sale of certain specified parcels of real estate.
+John Schnugg died July 3, 1901, leaving real and personal estate. He had a son, Francis J. Schnugg, and two daughters, and by his will he devised and bequeathed to his son, Francis' J. Schnugg, one undivided one-third part of his real and personal estate. The other two-thirds he left in trust for his daughters. A power of sale was given to the executors- and as the debts exceeded the amount of the personal property it became necessary to sell a portion of the real estate for the payment of debts.
+On May 9, 1902, the United States Mortar Supply Company recovered a judgment for $490.55 against Francis J. Schnugg, and on May 9, 1902, the same plaintiff recovered a second judgment against said Francis J. Schnugg for $350.02. Execution was issued on both judgments and returned unsatisfied. On January 23, 1905, the sheriff of Hew York county offered for sale all the right, title and interest of Francis J. Schnugg, which he had at the date of the aforesaid judgments, in the parcels of real estate specified in the complaint, and at such sale plaintiff became the purchaser.
+In the meantime, however, between the date of the recovery of the judgments and the date of the sheriff’s sale, the executors of John Schnugg, deceased, had sold the parcels described in the complaint and in the sheriff’s advertisement of sale, and had applied all of the proceeds to the payment of the debts of John Schnugg, deceased.
+Plaintiff now -seeks to compel the defendants as executors of said John Schnugg, deceased, to pay over to him a sum equal to one-third of the proceeds of the sale of said real estate.
+A very slight consideration of the question is sufficient ter show that this action cannot be maintained. Assuming that Francis J. Schnugg became instantly vested, upon his father’s death, with title to an undivided one-third of the real estate, his title thereto was subject to be divested by the exercise on the part of the executors of the power of sale given by the father’s will. (Sayles v. Best, 140 N. Y. 368.) Whatever right, title and interest Francis J. Schnugg had had in the real estate when the judgments were recovered had, therefore, become completely divested and destroyed before the sale by the sheriff and the purchaser at that sale took nothing by his purchase for there was nothing to take.
+The plaintiff argues strenuously that although he gained no title to the real estate as such, he is entitled to follow the proceeds of the sale in the hands of the executors. There are two answers to this. The first is that there are no proceeds of sale because the executors have disbursed them all, as they had a right to do, in paying the testator’s debts. The second is that plaintiff by his purchase did not acquire anything unless he acquired a specific interest in specific parcels of real estate, which obviously he did not. He did not acquire the claim or any of the equities of the judgment creditor beyond the lien upon the specific property.
+Plaintiff’s insistence upon his right to recover rests upon the failure to note that the plaintiff in Sayles v. Best (supra), upon which he relies, was not only the purchaser at the sheriff’s sale, but was also the judgment creditor, and what is said in that case as to his right to follow the proceeds of the real estate is said with reference to his position as a judgment creditor.
+The judgment should be affirmed, with costs.
+Ingraham, P. J., McLaughlin, Clarke and Hotchkiss, JJ., concurred.
+Judgment affirmed, with costs.
