@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1898-07"
+citations: ["1 Liquor Tax Rep. 379"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anchor Brewing Company, Appellant, v. Bernard Burns, Defendant, Impleaded with George Ringler & Co., Respondent."]
+source_url: "https://static.case.law/liquor-tax-rep/1/cases/0379-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1289818
+cites_cases: ["120 N. Y. 519", "20 App. Div. 483", "32 App. Div. 272", "49 N. Y. 626", "65 N. Y. 459"]
+---
+
+# Anchor Brewing Co. v. Burns
+
+## Majority (Cullen, J.)
+
+Cullen, J.
+In April, 1896, the plaintiff lent the defendant Burns $300, to enable the latter to take out a liquor tax certificate, and Burns executed an assignment to the plaintiff in the form of a chattel mortgage, whereby he sold and assigned “ the tax certificate issued to me * * for the premises known as 48 St. Mary Street, Yonkers, N. Y., and also any and every renewal, or subsequent license or tax certificate, which may he hereafter issued to me * * * for said premises.” This certificate expired in May, 1897. In April, 1897, the defendant Ringler & Co. lent Burns the sum of $350 to enable him to take out a new license for the year running from May, 1897, to May, 1898, and Burns assigned such certificate to the defendant Ringler & Co. as security for the loan. Burns paid neither the plaintiff nor Ringler Sc Co. In November, 1897, the plaintiff brought this action against the defendant Burns to recover possession of the liquor tax certificate for the year 1897 to 1898, or its value ($150), in case return could not be had. On motion, Ringler & Co. were made parties defendant. The action was tried before the city judge of Yonkers without a jury, and from his decision in favor of the defendants this appeal is taken.
+We are of the opinion that the action cannot be maintained. It is strictly an action at law in replevin, and must be considered as such, for the City Court of Yonkers has no jurisdiction of equitable actions. At the time of the execution of the mortgage by Burns to the plaintiff, the license, or tax certificate, for the year 1897 to 1898 was not in existence. The mortgage did not, at the time of its execution, create a lien on the certificate, because that was not in esse; at most, it operated as a contract to give a lien. This is effectual in equity, as between the parties, when the property comes into existence and no rights of creditors or innocent third parties intervene. (Kribbs v. Alford, 120 N. Y. 519; Deeley v. Dwight, 132 id. 59.) We do not understand, however, that such a contract gives any legal title or lien, cognizable in a court of law, as the foundation of a cause of action (Hale v. Omaha National Bank, 49 N. Y. 626) ; though, unquestionably, it could be set up as a defense, since equitable defenses are, under the present system, admissable in legal actions. (McCaffrey v. Woodin, 65 N. Y. 459.) In Hale v. Omaha National Bank, as in the present case, the lien sought to be enforced was on subsequently acquired property. There Judge Allen said: “Very likely the action cannot be maintained as a common-law action of trover, although it is not necessary to pass upon that question. That action can only be brought by one having the legal title, either as a special or a general owner, one having the legal right to the possession.” But there is a further difficulty in this case. The tax certificate is not a chattel but a chose in action. (Niles v. Mathusa, 20 App. Div. 483.) The recovery of the piece of paper on which the license is written would be of no advantage to the plaintiff. In its complaint it alleges a demand on the defendant Burns for an assignment of the certificate and Burns’ refusal. The City Court of Yonkers has no power to compel Burns to execute any assignment. Therefore, even if an action of replevin would lie in the case of an equitable lien on a chattel, it cannot be maintained in the case of a chose in action.
+We are further of opinion that the decision of the city judge was correct on the merits. Equity will only enforce a lien on subsequently acquired property, where superior equities of third parties have not intervened. In this case as Ringler & Go, advanced the very money which paid for the tax license or certificate in suit, their equity was paramount to that of the plaintiff’s.
+The judgment appealed from should be affirmed, with costs.
+All concurred, except Hatch, J., absent.
+Judgment affirmed, with costs.
