@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-01-21"
+citations: ["72 N.Y. St. Rep. 320"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lillian Cauchois, App’lt, v. William B. Proctor, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/72/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988408
+---
+
+# Cauchois v. Proctor
+
+## Majority (CULLEN, J.)
+
+CULLEN, J.
+—This is an appeal from a jugdment of the special term dismissing the plaintiff’s complaint on the merits. The corn-plaint alleged a copartnership. The answer set up, with other defenses, that the agreement for a partnership was by mutual assent abrogated and annulled. To this and another affirmative defense the plaintiff, by an order of the court, was compelled to reply. By the reply the plaintiff expressly admitted the allegations of the answer above recited. At the opening of the trial the defendant moved for judgment on the pleadings.
+It is not disputed that the defense pleaded and admitted was a complete bar to the action. Therefore, as the pleadings stood, a judgment for the defendant was unquestionably correct. But it is claimed that the dismissal should not have been on the merits. We cannot see why. The complaint was dismissed, not because of a failure of proof, or because the complaint failed to state a good cause of action, but because an affirmative defense was conclusively established by the admission of the reply. Had the case been at law before a jury, the proper direction would have been, not a nonsuit, but a verdict for the defendant. Being in equity the complaint might properly either have been dismissed on the merits or.judgment ordered for the defendant.
+When the defendant moved for judgment on the pleadings, the plaintiff applied to amend her reply by withdrawing her admission -of the defense, and substituting therefor a denial, claiming that the admission occurred through inadvertence and error. This application was denied. The plaintiff complains of this ruling as erroneous. While the amendment sought may not fall within the strict letter of Code, § 723, as it did not technically change a claim or defense, it did substantially change the issue on which the case was brought on for hearing. The very object of compelling a reply was that defendant might know whether the facts of this defense were admitted or controverted, the amendment should not have been allowed against the objection of the defendant, The plaintiff, upon discovering the mistake in her pleading, should have applied to postpone the trial, and made regular application on notice for leave to serve an amended reply. Nor is the plaintiff now without remedy. She may move for a new trial on the ground of surprise, and also for permission to amend her pleading, which will doubtless be granted, but there has been no error committed on the trial which justifies a reversal of the judgment.
+The j udgment appealed from should be affirmed, with costs, unless, within twenty days, the plaintiff withdraws her appeal, and pays the respondent the costs of the appeal
+All concur»
