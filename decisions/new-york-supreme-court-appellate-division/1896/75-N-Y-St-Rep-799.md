@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-10-29"
+citations: ["75 N.Y. St. Rep. 799"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Snow, Church & Co. v. William Reichman."]
+source_url: "https://static.case.law/ny-st-rep/75/cases/0799-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1996744
+cites_cases: ["148 N. Y. 326"]
+---
+
+# Snow, Church & Co. v. Reichman
+
+## Majority (DALY, P. J.)
+
+DALY, P. J.
+—This action is brought by a collection agent to recover aggregate commissions for collecting claims. The amount claimed was $34.69, and the defendant disputed liability on the ground that the claims were withdrawn before the plaintiffs had taken any steps to collect them, and that there had been an accord and satisfaction between the parties. It appeared that the last item of commissions sued for accrued about February 25, 1891, and that on September 4,1894, a, collector of the plaintiffs called on the defendant with a bill for another commission of three dollars upon subsequent collections, as to which there was no dispute. According to the plaintiffs’ evidence, the defendant offered to pay it if the collector would give him a receipt in full of all claims to date,, which the latter did, saying to the defendant that he supposed, this was the only account plaintiffs had against him, otherwise-they would have rendered a statement; and then the defendant-, without disclosing to the collector the existence of the disputed claims, took the receipt in full, and gave the collector a. check for three dollars, on which was written a statement that-it was in full of all claims. This check was indorsed by the plaintiffs’ cashie^, and was deposited and retained. There was-no evidence that the plaintiffs saw it or knew of the receipt in. full, or that the cashier knew of the prior disputed claims.
+Defendant claims that there was an accord and satisfaction of the demands now sued upon, under the authority of Fuller v. Kemp, 138 N. Y..231, 52 S. R. 342, and Nassoiy v. Tomlinson, 148 N. Y. 326, which hold that, if a claim is unliquidated, the acceptance of a part, and the agreement to cancel the entire debt, furnish a new consideration, founded on the-compromise, which.will support an accord and satisfaction;, and so where a debtor offers a certain sum of money in full satisfaction of such a demand, and the creditor accepts and retains the money, his claim for the same is canceled. But, in order to make out the defense- of accord and satisfaction, the-proof must be clear and unequivocal that the observance of the condition is insisted upon; and, where a check is tendered, it must clearly appear that it was received and retained by the-creditor with the knowledge that it is acquired in settlement of a disputed claim. In this case the check was the exact-amount of the bill rendered, and which was not disputed. Upon a conflict of testimony between the collector and defendant as to what occurred when that bill was presented, the finding of the justice establishes that the collector’s version of the-interview was correct. He denied the testimony of the defendant that there"was anything said about any other account- or moneys due, or. any waiver of claims for other alleged collections. It was explained that the plaintiffs had opened a new set of books, to which the old accounts were not transferred, and which show only the new account for which the bill for three dollars was rendered; so there was nothing to call the attention of the cashier to the other accounts, and the-check for three dollars was not received and retained b}*- him. with notice that it was tendered in settlement of any disputes. This fact distinguishes the case from the authorities relied upon by the appellant. Here the receipt in full was given,. and the check received'and retained, in ignorance of the fact-on the part of the plaintiffs’ agents, and (as the justice must-have found) a concealment of the fact on the part of the defendant. There was therefore no meeting of the minds of the parties, and no agreement, expressed or implied, upon which alone the defense of accord and satisfaction must rest. Had an explanatory letter been sent with the check, as in the cases - of Fuller v. Kemp and Nassoiy v. Tomlinson, above, the case might have been different. Merely writing the words, “In full of all claims ” on the check did not advise the plaintiffs’ agents of a tender of that sum in settlement of disputed claims, since the amount of the check was the exact amount of the bill which had been rendered.
+The judgment is affirmed, with costs.
+All concur.
