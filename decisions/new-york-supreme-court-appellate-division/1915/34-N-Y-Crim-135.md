@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1915-12-01"
+citations: ["34 N.Y. Crim. 135", "170 App. Div. 690"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. YVES DE VILLERS."]
+source_url: "https://static.case.law/ny-crim/34/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1215143
+---
+
+# People v. De Villers
+
+## Majority (McLaughlin, J.:)
+
+McLaughlin, J.:
+The defendant was convicted of the crime of grand larceny in the first degree, for which he was sentenced to imprisonment in a State’s prison for a term of not less than two and one-half years nor more than three and one-half years. The indictment charged him with having obtained $5,239.67 from the Curtiss Aeroplane Company by means of false representations in the sale of a motor. The evidence adduced at the trial established that the defendant represented to the Curtiss Company that he was the agent of the Gnome Motor Company, of Paris, France, and could obtain from it a motor built for the Curtiss Company of the specifications required by it under the terms of its contract to furnish aeroplanes to the United States government. The Curtiss Company agreed to buy such motor, and in March, 1913, paid to him to apply on the purchase price, $2,390. Some time thereafter the defendant telegraphed the Curtiss Company that the motor had arrived from Paris, and was then in New York, and he requested the balance of the purchase money, stating that he would immediately take the motor from the Custom House and forward the same. McCurdy, an employee of the Curtiss Company, was given a check for $5,239.67, payable to the Aeroplanes, Motors and Equipment Company, the name under which the defendant did business, with instructions to deliver the same to him upon ascertaining that the motor had arrived as claimed by the defendant. The defendant took McCurdy to the American Express Company’s building at 65 Broadway, New York city, and showed him a motor which he claimed, and which from all appearances, had just arrived from France. McCurdy then delivered the check, which was shortly thereafter cashed by the defendant. The defendant’s statements were false and untrue. The motor which was delivered to the Curtiss Company had not been specially built for it, but was a Gnome motor, which had been in this country since 1912, when it was imported by one Prince under an exibition bond. It had been exhibited in Chicago, and then forwarded to Prince in Boston by express, from which place it had been shipped, also by express, to the defendant, doing business under the name above stated. When shown to McCurdy all marks had been obliterated from the box in which it was shipped to New York, except the original consignment and the name Aeroplanes, Motors and Equipment Company. After an unsuccessful test by the goverment officials at Annapolis the motor was replevied from the motor company by Prince.
+The errors alleged by the defendant’s counsel as calling for a reversal of the judgment of conviction have been carefully examined, but in view of section 542 of the Code of Criminal Procedure, which requires a court on appeal to give judgment without regard to technical errors or defects which do not affect the substantial rights of the parties, we do not think they are of such a character as would justify us in reversing the judgment. A consideration of all the evidence, and particularly the testimony of the defendant himself, cannot fail to satisfy one that he was justly convicted of the crime with which he was charged.
+The judgment of conviction is, therefore, affirmed.
+Ingraham, P. J., Clarke, Scott and Smith, JJ., concurred.
+Judgment affirmed.
