@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-02-21"
+citations: ["72 N.Y. St. Rep. 489", "37 N.Y.S. 434", "1 App. Div. 574"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bernard Feldman, Resp’t, v. Frederick J. McGraw et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/72/cases/0489-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988454
+cites_cases: ["47 Barb. 588", "76 N. Y. 196"]
+---
+
+# Feldman v. McGraw
+
+## Majority (BARRETT, J.)
+
+BARRETT, J.
+—This was an action upon a promissory note for $650. The defense was usury, the defendants averring that the lender exacted over twenty-one per cent, upon the loan represented by the note, and that this exaction amounted to $138. It appeared upon the trial that the lender, Edward Brennan, actually paid McG-raw in cash but $37 upon the transaction in question. The rest of the $650 was made up by his returning to McG-raw the latter’s obligations, as follows:. Two notes, one for $290, and one for $240; and two checks, one for $33, and one for $50. The $290 note was payable five days after the 21st of September, 1894. The $240 note was payable three days after the 18th of the same month. The $33 check was dated on the 19th of the same month, and the $50 check was dated on the very day when the $650 note was given (September 24th), and was handed by MoGraw to the lender for the express purpose of enabling the latter to return it to him immediately, as a part of the consideration of the loan. The defendant MeGraw claimed that the lender discounted the $650 note for this fifty dollar, plus the usury on the other notes. He testified to the reservation of the fifty dollars, and then attempted to show usury in these other notes. He commenced by asking the question whether the lender had discounted the $290 note prior to the 24th of September, and what was the amount in cash he gave for it. This was objected to generally, the plaintiff’s counsel specifying no ground. The learned trial judge sustained the objection, stating that he did so upon the ground that the fact sought to be elicited had not been pleaded, and the defendants excepted to the ruling. We think the court erred in excluding the question. The defendants had a right to .show that the $650 note was not only tainted with usurious reservation of fifty dollars, but that it was a substitute for other notes ■which were also usurious. Where a security tainted with usury is given up, and a new security substituted, the substituted security is void. Treadwell v. Archer, 76 N. Y. 196; Stanley v. Whitney, 47 Barb. 588. The plaintiff did not object to the question upon the ground that usury in the original notes had not been pleaded. His objection, as we have seen, was general. We think, however, that the plea was sufficient to entitled the defendants to prove the facts. They were not required to plead their evidence. The testimony, if allowed, might have shown the fact of a usurious agreement precisely as pleaded. The plea was that the lender reserved an unlawful percentage, amounting to $138; that is ■eighty-eight dollars beyond the fifty dollars directly taken. If the defendants had proved usury in the other transactions to the ■extent of eighty-eight dollars they would have proved the usury us averred. They were no more bound to state the circumstance attending the reservation of the eighty-eight dollars than the fact the fifty dollars was reserved by the check device. The particulars ■of the reservation of the entire sum of $138 were matter of evience. We think, therefore, that the defendants should have been .allowed to prove the entire transaction.
+The respondent also claims that the defendants should have followed the question which was excluded by an offer to prove usury in the original notes. But they were not bound to make an offer. Nor was it necessary, in view of the ground upon which the learned judge placed his ruling, to follow up the excluded question with other questions tending in the same direction. Where the question is excluded because the fact sought to be proved is not pleaded, counsel surely need not multiply questions on the same head, nor incumber the record with useless offers.
+The judgment should be reversed, and a new trial ordered, with ■costs to the appellants to abide the event. All concur.
