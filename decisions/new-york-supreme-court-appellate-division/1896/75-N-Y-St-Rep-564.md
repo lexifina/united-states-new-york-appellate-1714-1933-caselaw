@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-10-06"
+citations: ["75 N.Y. St. Rep. 564"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard Saniford v. Carmen Frost."]
+source_url: "https://static.case.law/ny-st-rep/75/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1996672
+cites_cases: ["120 N. Y. 614", "128 N. Y. 420", "131 N. Y. 183", "2 Barb. 156", "6 Wend. 213"]
+---
+
+# Saniford v. Frost
+
+## Majority (WILLARD BARTLETT, J.)
+
+WILLARD BARTLETT, J.
+There is no statement in the appeal book that the case contains all the evidence. Hence we can not review the findings of fact. Aldridge v. Aldridge, 120 N. Y. 614, 31 S. R 948. According to these findings there was an agreement of partnership in 1887, 1888, and 1889 between the plaintiff and the defendant, for acquiring title to a large tract of land on the south shore of Long Island, known as the “Long Beach Property,” and obtaining possession thereof. The defendant undertook to secure the necessary records, searches, deeds, and other documents, while the plaintiff was to furnish money for the necessary expenses of the enterprise, and the personal expenses of the defendant, and to aid the undertaking by his own services. The interests of the parties were to be one-third in the plaintiff, and two-thirds in the defendant. The agreement was embodied in a written memorandum signed by the parties, which had been lost at the time of the trial, but the substance of which was proved as already stated. The learned trial judge further found that the plaintiff had duly performed his part of the partnership agreement, having furnished more than $1,600 thereunder; that the defendant, with the active aid and co-operation of the plaintiff, obtained title to said Long Beach property, and the muniments of title; and that, there having been no settlement or accounting between the plaintiff and the defendant when the object of the partnership had been thus far secured, the plaintiff demanded a declaration of trust as to his one-third interest in the partnership property, with which demand the defendant refused to comply. It was accordingly adjudged that the defendant had obtained and held title to the property in question as trustee for a partnership between the plaintiff and the defendant, in which the plaintiff had an undivided interest of one-third. The judgment, however, directs a conveyance to thé plaintiff of all the right, title, and interest acquired by the defendant in the lands therein described. This is obviously a mistake, which must be corrected so as to provide for the conveyance of a one-third interest only, if this portion of the judgment is otherwise proper.
+So far as questions of law are concerned, the judgment is assailed in two respects only: (1) On the ground that the contract amounted to champerty ; and (2) on the ground that Charles De Kay Townsend, the legal adviser of the parties, was erroneously allowed to testify to the contents of the lost memorandum, against the objection and exception of the defendant.
+1. We see no reason to regard the agreement as champertons. By its terms, as found by the trial court, it contemplated nothing which is forbidden by the statute against buying- lands in suit. Nor does the testimony show that when the conveyance was actually taken by the defendant the grantor was out of possession, to his knowledge, and the premises were the subject of a suit in court* of which the defendant also knew. Pen. Code, § 129. The appellant insists, still further, that the trial court itself attempted to bring about champerty, by directing the defendant to convey to the plaintiff, inasmuch as there undoubtedly was a litigation-concerning the land pending ot the time of the trial, to the knowledge of both the parties and the learned judge. It is well settled, however, that the statute against buying and selling pretended titles does not prevent the transfer of property by operation of law, or by conveyance made under the decree of a court of competent jurisdiction. Tuttle v. Jackson, 6 Wend. 213, 224; Truax v. Thorn, 2 Barb. 156, 159. And the same is true, we think, of the statute concerning the transfer of land in suit.
+2. The testimony of Mr. Townsend was properly received, as his knowledge of the facts stated was obtained at an interview in which both parties consulted him, as an attorney, for their mutual benefit. Under such circumstances, the communication is not privileged in a subsequent litigation between the clients. Hurlburt v. Hurlburt, 128 N. Y. 420; 40 S. R. 436; Rosseau v. Bleau, 131 N. Y. 183; 42 S. R. 871.
+The judgment should be modified so as to direct the conveyance by the defendant of only one-third, instead of the whole, of his interest in the premises described in the decree, and as thus modified should be affirmed, without costs.
+All concur.
