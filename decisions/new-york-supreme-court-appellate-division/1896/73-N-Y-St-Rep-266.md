@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-02-26"
+citations: ["73 N.Y. St. Rep. 266"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John A Eckert, Resp’t, v. Percy W. Clark, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/73/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1991061
+cites_cases: ["126 N. Y. 410", "128 N. Y. 35", "14 Misc. Rep. 18", "37 St. Rep. 864", "38 St. Rep. 422", "63 St. Rep. 367", "82 Hun, 51"]
+---
+
+# Eckert v. Clark
+
+## Majority (BISCHOFF, J.)
+
+BISCHOFF, J.
+The action was for money had and received to the use of the plaintiff, the claim being admitted by stipulation in the record as follows:
+“ It is stipulated herein, and the defendant admits, that he has received to the use of this plaintiff the sum of $82.50, which the defendant received on or about the 1st day of February, 1895, and which he now holds for the plaintiff herein : being plaintiff’s share in the interest of defendant in the firm of Flyer & Clark for the month of January, 1895.”
+The issue litigated was solely as to the defendant’s counterclaim for services. Upon the first trial of this action, judgment was rendered in favor of the defendant for the excess of the counterclaim over and above the plaintiff’s admitted cause of action for money had and received. This judgment was reversed by the court of common pleas, the ground of the decision being that, by the terms of the copartnership agreement between these parties and two other persons, it appeared that the services for which the counterclaim was made were performed as part of the defendant’s duties, and that, therefore, the claim could not prevail in the absence of a special agreement. Eckert v. Clark, 14 Misc. Rep. 18; . Upon the second trial no further evidence was brought out, the parties simply submitting the minutes of the first trial, and the present record is the same as that reviewed by the court of common pleas. The justice below, following the decision of the appellate court, rendered judgment for the plaintiff upon the admitted demand; and the defendant now claims that the court was without jurisdiction over the cause of action, since it arose out of a partnership transaction,—the basis of the contention being that the accounts were involved, and that the action could not be maintained at law. It appears, however, from the admission of libility in-evidence, that the claim in suit consisted of liquidated profits received by the defendant for payment to the plaintiff, and that payment had not been made. Demand and refusal were also verbally admitted. The question, therefore, had no bearing upon the partnership accounts, was solely one of an admitted legal liability as between these parties, and whether they were partners or hot' is quite immaterial. First Nat. Bk. of Champlain v. Wood, 128 N. Y. 35; 38 St. Rep. 422; Matter of Bingham, 82 Hun, 51; 63 St. Rep. 367; Bank of British North America v. Delafield, 126 N. Y. 410; 416; 37 St. Rep. 864. So, too, the question as to the rights of the other partners is not in the case. The defendant, having been sued as an individual, upon a personal liability, and having chosen to admit the claim for the purpose of receiving some expected benefit from his counterclaim, cannot now recede from his position, and point to a supposed demand which strangers to the record might make upon him, touching this fund. The defendant’s, contention that the judgment cannot bind the partnership in this action at law is undoubted ly correct, but it is sufficient that it binds him upon his admitted individual promise to pay the sum received to the plaintiff.
+The judgment should be affirmed, with costs.
