@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-02-07"
+citations: ["73 N.Y. St. Rep. 209", "37 N.Y.S. 520"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph B. Reger, as Administrator, etc., Resp’t, v. Rochester Railway Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/73/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990961
+cites_cases: ["110 N. Y. 504", "18 N. E. 108", "18 St. Rep. 130"]
+---
+
+# Reger v. Rochester Railway Co.
+
+## Majority (GREEN, J.)
+
+GREEN, J.
+The sole question here presented is whether this court can say as matter of law that the jury violated any rule in giving the amount of damages which they Rid give, or that they should have given more. That the supreme court has the power, in a proper case, to set aside a verdict where it is excessive or inadequate, is conceded; but this power is exercised within well-defined limitations. The court is justified in interfering with a verdict of a jury only in those cases where it appears that the jury, in fixing the amount of the verdict, were actuated by prejudice, passion, partiality, or corruption, or failed to understand and apply, the rule of damages appertaining to the case; or where it can be clearly seen from the record that under all the circumstances of the case the amount awarded was unreasonable and unfair. Applying this rule to the case at bar, the verdict of the jury is subject to no criticism which would justify the court in interfering with its verdict. There are many cases brought under the statute where the evidence is such that the question of damages may be fixed with some reasonable degree of certainty; as in the case of an adult where the jury have before them evidence of the earning capacity and the age and condition in life of the deceased. But in the case of a child of 3^ years the evidence upon the question of damages must necessarily be indefinite, and to some degree uncertain. The age, the sex of the child, her physical condition, and circumstances of the parent of the child constitute the evidence upon which the jury must fix the amount of damages. In this case the child has never had any earning capacity, and possibly might never have had such. “In estimating the pecuniary value of this child to her next of kin, the jury could take into consideration all the probable, or even possible, benefits which might result to them from her life, modified, as in their estimate they should be, by all the chances of failure and misfortune. There is no rule but their own good sense for their guidance.” Birkett v. Knickerbocker Ice Co., 110 N. Y. 504; 18 St. Rep. 130. The jury were bound to confine themselves to the evidence given upon the question to be decided. It was their duty to consider the same, and pass their judgment upon it, Their determination must not be the result of mere speculation, conjecture, or guesswork. The foundation upon which they must build their verdict is the evidence. In view of the somewhat indefinite and uncertain character of the evidence, we are of the opinion, that this case is peculiarly one for the consideration of a jury, and one where the determination of a jiiry should be conclusive. No safer tribunal than the experience, good sense, and judgment of twelve men can be found for the determination of the question of damages in a case of this character. So far as appears from the record, the jury considered that somewhat difficult question, and arrived at a verdict which to them, fairly represented the pecuniary damages sustained by the next of kin. They had before them all the elements of damages properly involved in the plaintiffs claim. They violated no rule governing them in arriving at their conclusion; nor does it appear from their verdict or from record presented to the court that they passed beyond the limits prescribed within which they must exercise their functions. The court might have been better satisfied with a larger verdict But this alone furnishes no sufficient reason for invading the province of a jury, and substituting the opinion of the court for that of the jury. We are of the opinion that the verdict of the jury was conclusive, and that the order setting aside, the same should be reversed.
+Order reversed, with costs.
+All concur.
