@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1917-12"
+citations: ["36 N.Y. Crim. 172", "180 App. Div. 684"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE CITY OF NEW YORK v. FANNY BAFF."]
+source_url: "https://static.case.law/ny-crim/36/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1218310
+---
+
+# City of New York v. Baff
+
+## Majority (Laughlin, J.:)
+
+Laughlin, J.:
+The recovery was for a penalty prescribed by section 35 for a. violation of section 34 of article 3 of chapter 26 of the Code of Ordinances of the city of Hew York. Said section 34 provided that no turkeys or chickens shall be offered for sale “ unless their crops are free from food or other substance, and shrunken close to their bodies.” (See Cosby’s Code Ord. [Anno. 1915], p. 355 ; now Id. [Anno. 1917] p. 535.)
+It is manifest that the ordinance relates only to turkeys or chickens offered for sale 'after they have been slaughtered and dressed. The plaintiff merely showed that defendant maintains a slaughter house at Ho. 526 East Eightieth street, borough of Manhattan, Hew York, and that on the 4th day of April, 1916, the secretary of the Department of Foods and Markets of the State visited the premises and purchased a chicken which he selected from one of the chicken “ coops along the wall,” and had it weighed and paid for it and took it out; and subsequently removed the crop and found therein “ cracked com meal, looking like a mixture of meal and milk, and sand.” It does not appear when, where or by whom the chicken was killed1. It is manifest, therefore, that the plaintiff failed to establish a cause of action for the recovery of the penalty.
+It follows that the determination of the Appellate Term and the judgment of the Municipal Court should be reversed and a new trial granted, with costs in all courts to appellant to abide the event.
+Clarice, P. J., Scott, Dowling and Shearn, JJ., concurred.
+Determination appealed from and judgment of Municipal Court reversed and new trial ordered, with costs in all courts to abide event.
