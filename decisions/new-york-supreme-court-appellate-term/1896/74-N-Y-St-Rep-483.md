@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "1896-04-27"
+citations: ["74 N.Y. St. Rep. 483"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George M. Allen, App'lt, v. The Rector, etc., of Church of the Beloved Disciple, Resp't."]
+source_url: "https://static.case.law/ny-st-rep/74/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1993910
+cites_cases: ["1 Misc. Rep. 321", "126 N. Y. 336", "15 Wall. 151", "37 St. Rep. 482", "38 N. Y. 266", "48 St. Rep. 699"]
+---
+
+# Allen v. Rector of Church of Beloved Disciple
+
+## Majority (BISCHOFF, J.)
+
+BISCHOFF, J.
+The action was to recover the fair and reasonable value of services rendered and materials furnished in and about the supply of a number of pamphlets descriptive of the defendant’s edifices and works, and the only issue litigated at the trial was whether or not the services were rendered and the materials furnished at the instance and request of the defendant, and upon its promise to pay therefor. The justice below rendered judgment “in favor of the defendant, and against the plaintiff, with ten dollars costs,” and from such judgment the plaintiff has appealed.
+It is conceded for the appellant that the evidence was insufficient, to entitle him to recover, and such, indeed, it was; no authority in the person at whose immediate request the work was done, to conclude the defendant by a contract in its behalf, having been shown; and the appellant urges, as the only ground for reversal of the judgment, that it proceeded upon the merits of the controversy, whereas it ought, of right, to have been “that the action be dismissed, with costs, without prejudice to a new action” (Consolidation Act; Laws 1882, c. 410, § 1382), as in the case of a nonsuit. Ho evidence was given for the defendant, other than the testimony of one of its officers in denial of an alleged admission testified to in the plaintiff’s behalf; but the denial was wholly immaterial, in view of the general insufficiency of the evidence for the plaintiff upon the point alluded to. From the record of the proceedings at the trial, however, it appears that when the introduction of evidence for both sides was concluded the defendant’s counsel moved the dismissal of the complaint for insufficiency of the evidence to sustain the cause of action. The justice denied the motion, in which ruling the plaintiff acquiesced; and the cause was thereupon, without objection from the plaintiff, submitted to the justice for decision. The only reasonable inference from the facts so appearing is that the plaintiff maintained the sufficiency of the evidence, and consented to a determination of the action upon the merits; and, such a determination having been had, no error is apparent therefrom, and the plaintiff should be thereby precluded. No question can arise with regard to the jurisdiction of the justice to render a judgment upon the merits which is final and conclusive between the parties, and in so far as the provision of the consolidation act, hereinbefore alluded to, was for the benefit of the plaintiff, it was competent for the latter to waive it. Robert v. Baumgarten, 126 N. Y. 336, 341; 37 St. Rep. 482; Sherman v. McKeon, 38 N. Y. 266, 274; Shutte v. Thompson, 15 Wall. 151. “Interest reipublicae ut sit finis litixim.” Broom, Leg. Max. (8th Am. Ed.) pp. 331, 343. Hence, upon appeal a party will be held to the position assumed upon the trial. Fay v. Muhlker, 1 Misc. Rep. 321, 323; 48 St. Rep. 699, and cases collated; 7 Am. & Eng. Enc. Law, 22, note, “Inconsistent Position in Legal Proceedings Generally;” Bigelow, Estop. 578. And the plaintiff cannot now urge that the evidence was insufficient to support a recovery, or that the justice was not authorized to determine the action upon the merits. Assuming the evidence to- have been sufficient, it rested, in the main, with regard to the contractual authority of the person at whose immediate request the plaintiff did the work, or the ratification of his unauthorized act, upon the statements of the plaintiff, a witness interested in the event of the action, whose credibility, therefore, remained to be determined by the justice. 29 Am. & Eng. Enc. Law, 774. And so, in such aspect of the evidence, also, the judgment was rightfully rendered. The statements were of an alleged admission of liability by one of the defendant’s officers, denied by thq latter as a witness for the defendant. No preponderance of the evidence in favor of the plaintiff is therefore apparent. :
+The judgment is affirmed, with costs.
+All concur.
