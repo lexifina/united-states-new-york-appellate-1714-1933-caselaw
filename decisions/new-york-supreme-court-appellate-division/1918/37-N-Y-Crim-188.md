@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1918-11-08"
+citations: ["37 N.Y. Crim. 188", "184 App. Div. 541", "184 A.D. 541"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. ANTHONY ACERNO."]
+source_url: "https://static.case.law/ny-crim/37/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1220758
+cites_cases: ["10 N. Y. Crim. 260", "13 N. Y. Crim. 36", "13 N. Y. Crim. 474", "171 App. Div. 645", "184 App. Div. 767", "198 N. Y. 329", "206 N. Y. 249", "28 N. Y. Crim. 254", "32 N. Y. 141"]
+---
+
+# People v. Acerno
+
+## Majority (Page, J.:)
+
+Page, J.:
+On the 10th day of January, 1918, five packages were taken from the wagon of Saks & Co. on the corner of Twentieth street and Fifth avenue in Hew York county. Joseph Bussell and Edward F. Hollywood have pleaded guilty to the larceny of the goods.
+The defendant was indicted on two counts: First, charging him with the larceny of the goods; and second, charging him with criminally receiving the goods. The district attorney elected to try him on the second count.
+In my opinion the People failed to prove their case. The crime with which the defendant was charged is defined by section 1308 of the Penal Law. As stated by Judge Vann: “ There must be three concurring facts to constitute the crime: 1. The property must have been stolen by some one. 2. It must have been bought, received, concealed or withheld by a certain person. 3. Such person must have known that the property was stolen. While the Code does not expressly so provide, by necessary implication the action of the accused person must have been taken with felonious intent.” (People v. Walker, 198 N. Y. 329, 331.)
+In this case there was an entire failure to prove that the stolen property was “ bought, received, concealed or withheld ” by the defendant. The learned district attorney admits in his brief: “ How, as a receiving imports possession, it must be proved that the goods came into the possession of the accused. It need not, however, be proved that he received them into his actual, physical possession; it is sufficient to show that they came into his constructive possession, and that he had control over them.” The evidence in this case does not tend to show that the defendant ever had control over the goods. The learned district attorney quotes from Bishop (New Crim. Law, vol. 2, § 1139) : “ But personal possession by the receiver of the goods is necesasry to have been acquired where he has no control over their custodian. And besides possession, there must be something which may be deemed a receiving of the goods.”
+The only evidence in this case to connect the defendant in any way with these goods is the testimony of the police detective that a tag and some memoranda that had been in or upon the packages were found in his possession on the day after the theft in the room occupied by the thieves. There is no direct evidence, and the question naturally presents itself whether this circumstantial evidence is sufficient to prove each necessary element to constitute the crime charged.
+The Court of Appeals has frequently laid down the rules to be applied to this character of evidence. The latest case is People v. Razezicz (206 N. Y. 249, 269 et seq., 28 N. Y. Crim. 254), which after quoting the language used by that court in several cases (People v. Kennedy, 32 N. Y. 141, 146; People v. Harris, 136 id. 423, 429, 10 N. Y. Crim. 260; People v. Fitzgerald, 156 id. 253, 258, 13 N. Y. Crim. 36; People v. Bennett, 49 id. 137, 144; People v. Place, 157 id. 584, 594 13 N. Y. Crim. 474), concludes: “ In a criminal case circumstantial evidence to justify the inference of guilt must exclude to a moral certainty every other reasonable hypothesis. Circumstantial evidence in a criminal case is of no value if the circumstances are consistent with either the hypothesis of innocence, or the hypothesis of guilt; nor is it enough that the hypothesis of guilt will account for all the facts proven. Much less does it. afford a just ground for conviction that unless a verdict of guilty is returned, the evidence in the case will leave the crime shrouded in mystery.” (See also, People v. Suffolk Contracting Co., 171 App. Div. 645.)
+Applying the rules laid down- in these authorities, in my opinion the People failed to prove the case. The fact that the defendant was in the room with Bussell, in which were goods stolen from H. C. F. Koch & Co., with a considerable sum of money in his pocket, might lead to the suspicion that he intended to purchase those goods, and thus give rise to the suspicion that he had purchased other goods of the thieves. But suspicion is not sufficient to sustain a conviction. The defendant is entitled to the presumption of innocence until his guilt is established beyond a reasonable doubt. The defendant became a witness in his own behalf and gave a not unreasonable explanation of his presence in the room and his intimacy with Bussell. He was shown to have been steadily employed by the company that published a large daily newspaper for the past four years, and his immediate superior and others testified to his good moral character. The district attorney called no witnesses and produced no evidence attacking his character. In the case of People v. Mantin (184 App. Div. 767) we have had occasion to discuss a conviction founded wholly on circumstantial evidence which tended merely to give rise to suspicion. The evidence in the instant case is much more inconclusive than was the evidence in that case.
+The judgment should be reversed and a new trial ordered.
+Clarke, P. J., Laughlik, Dowlikg and Merrell, JJ., concurred.
+Judgment reversed and new trial ordered. Order to be-settled on notice.
