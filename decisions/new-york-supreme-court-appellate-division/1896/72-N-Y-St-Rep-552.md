@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-02-21"
+citations: ["72 N.Y. St. Rep. 552"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of a Proceeding to Appraise the Property of Eugene A. Livingston, Deceased, under the Transfer Tax Act."]
+source_url: "https://static.case.law/ny-st-rep/72/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988023
+cites_cases: ["144 N. Y. 6", "62 St. Rep. 855"]
+---
+
+# In re Proceeding to Appraise the Property of Livingston
+
+## Majority (BARRETT, J.)
+
+BARRETT, J.
+—The learned surrogate, in declining to reduce-the personal estate as demanded by the appellant, acted upon the principle that the mortgage debt was, under the Revised Statute,, properly payable by the heir or devisee. Rev. St. pt. 2, c. 1, tit, 5, § 4. The appellant insists that the statute is inapplicable to-cases where the same persons take the realty and personalty as a blended fund. The contrary seems to us to be the correct view. Indeed, we think the statute is doubly applicable to such a case. Even the common-law rule would scarcely, under such circumstances, affect the statutory liability. Whether treated under the common-law rule, or under the statute, the practical question is, shall the heir or devisee satisfy the mortgage, or shall that burden be borne by others interested in the personalty? No such question can arise when the real and personal property are in the same hands. If the legatee chooses to apply his personalty to the satisfaction of the mortgage, he benefits his real estate pro tanto. He neither gains nor loses by its application or nonapplication. The payment of the mortgage would amount, substantially, to an investment of the personalty in the real estate. In Hepburn v. Hepburn, 2 Bradf. (Surr.) 75, the provisions of the will were somewhat similar to those in the case at bar. There the executrix had paid interest upon mortgages out of the principal of the estate. Surrogate Bradford, after referring to the statutory rule that real estate must bear its own burdens, and that the personal estate ■cannot be resorted to for the purpose of discharging bonds and mortgages, said:
+“ But here the testator has thrown his whole property into one fund, and designed that his wife and son should receive the entire income for life. There is no strife between the two classes of property. The same parties are interested in both equally. The testator's intention would be answered by the payment of a mortgage on the real estate, if it were a good investment, or necessary for the preservation of the property, instead of an investment on bond and mortgage elsewhere.”
+In the present case the executor was clothed with power, in his ■'discretion, to apply the personalty in satisfaction of the mortgages; in other words, discretion, to satisfy them as the statute declare they shall be satisfied, namely, out of the property of the devisee. It is immaterial whether that property came under the will, or was independent of it. The exercise of the power was, in effect, the same as though the two estates had been given directly to the objects of the testator's bounty, and they, at their pleasure, had utilized one of such estates for the relief of the other. This exercise of power was not the least analogous to that referred to in Re James, 144 N. Y. 6 ; 62 St. Rep. 855. There the executor exercised his discretion to pay legacies out of property in Great Britain. The court held that he had the right to do so, and that as the testator was domiciled in Great Britain, and as the property was out of our jurisdiction, the legacies could not be taxed here. The legacies we're not necessarily payable out of the property within our jurisdiction. The executor acted within the scope of his authority, in paying them out of nontaxable property; and the legatees were absolved because, under the will, they , neither received taxable property, nor derived any benefit therefrom. In the present case the testator was domiciled here, and the estate is here. The tax was imposed by the statute upon the “transfer” of the property. Laws 1892, c. 899, § 3. That transfer was effected by the death of the testator, and the tax became due and payable immediately. The subsequent act of the executor had no greater effect to reduce the taxable personalty than would the taking of the money by the beneficiary out of one pocket and putting it into the other. ■
+The order-of the surrogate should be affirmed, with costs.
+All concur.
