@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1914-07-10"
+citations: ["13 Mills Surr. 244", "163 A.D. 501"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Yung, Appellant, Respondent, v. Anna May Blake and Others, Respondents, Appellants."]
+source_url: "https://static.case.law/mills-surr/13/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1087558
+cites_cases: ["1 Denio, 27", "125 App. Div. 196", "144 N. Y. 557", "153 N. Y. 416", "155 N. Y. 5", "22 N. Y. 110", "42 Barb. 274", "49 Vt. 236", "5 Dem. Surr. 374", "5 Lans. 486", "77 N. Y. 369", "89 N. Y. 555"]
+---
+
+# Yung v. Blake
+
+## Majority (Scott, J.)
+
+Scott, J.
+The only question which it is necessary to discuss upon this appeal is whether or not the plaintiff, Charles Yung, is entitled to an estate by curtesy in so much of the real estate sought to be partitioned as belongs to the infant defendant, Charles Francis Yung.
+The question arises in this way: Charles Yung, the plaintiff, was the husband of Anna Louise Yung, who died March 12, 1908. She was seized at the time of her death of an undivided one-half interest in the real estate described in the complaint, as tenant in common with her husband. She had previously been married to one Blake, by whom she had two children, named Marguerite and Anna May Blake. By plaintiff she had one child, the infant defendant, Charles Francis Yung. By her will, executed before the birth of her last-named child, and, indeed, before her marriage to plaintiff, she left all of her estate to her executors in trust for her daughters during their minority, with the proviso that if either daughter predeceased her the whole property should be held by the executors in trust for the surviving daughter, to be paid over to her at her majority. One of these daughters, Marguerite, did die before her mother, leaving as the sole legatee under the will Anna May Blake, one of the defendants.
+The will neither mentioned nor provided for the son, Charles Francis Yung, nor was he provided for by any settlement. Consequently, as is conceded by every one, he is entitled to succeed to the same portion of his parent’s real and personal estate as would have descended or been distributed to him if his parent had died intestate, that is to say, in the present case, to one-quarter of the real estate described in the complaint. Is the father entitled to an estate by- the curtesy in the real estate thus passing to the infant- ? In the first place it is quite clear that the infant takes by inheritance as heir at law, and not at all under the will or subject to any of its provisions. As to his share the will is annulled and the testatrix died intestate. (Smith v. Robertson, 89 N. Y. 555; Udell v. Stearns, 125 App. Div. 196; Herriot v. Prime, 155 N. Y. 5.) Tenancy by the curtesy is a life estate created by operation of law. It attaches to all the real property of which the wife was beneficially seized of an estate of inheritance during coverture, provided a child is born of the marriage, born alive and capable of inheriting the property. (1 Reeves Real Prop. § 446.)
+In this State this right of curtesy can be destroyed only in one of two ways, to wit, either by a conveyance of the property by the wife during her lifetime, or by a testamentary ‘bequest of the real property to take effect after her death. If she fails to dispose of her real property in one of these two ways the right of curtesy still obtains. (Ransom v. Nichols, 22 N. Y. 110; Hatfield v. Sneden, 54 id. 280.) If, then, the will of the testatrix was, by the birth of her son' after the will was made, annulled or revoked pro tanto as to his share of the estate, as all the authorities hold, and he takes that share not as legatee but as heir at law by descent, it follows that as to-that portion of the estate the testatrix made no valid testamentary disposition, and, consequently, did not cut off or destroy her husband’s right to a tenancy by the curtesy. The plaintiff is, therefore, entitled to a tenancy by curtesy in so-much of the real estate as descends to the infant defendant, Charles Francis Yung. In this regard the judgment appealed from is erroneous and must be reversed. With regard to the other findings of the referee, which have been adopted by the Special Term, but which are questioned on this appeal, we find no error. Our conclusion as to the right of plaintiff" to an estate by the curtesy will, however, require a different disposition to be made as to the rents collected by the trustees from -the share or interest of the infant, Charles Francis Yung. It may also be necessary to estimate the value of the life estate of said plaintiff. The judgment appealed from must, therefore, be reversed and the cause remitted to the referee to make the findings rendered necessary by this opinion, with costs and disbursments of this appeal to the plaintiff and to the guardian ad litem of the infant defendant, Charles Francis Yun, payable out of the distributive share of said infant.
+In gbahaii, P. J., McLaughlun, Dowling and Hotchkiss, JJ;, concurred.
+Judgment reversed and cause remitted to referee to make findings in accordance with opinion of this court, with costs to plaintiff and to guardian ad litem of infant defendant, Charles F. Yung, payable out of distributive share of said infant. Order to be settled on notice.
+NOTE ON REVOCATION OF WILL BY MARRIAGE OR BIRTH OF CHILDREN.
+At common law the general rule is that marriage and the birth of issue of a testator, both occurring after the execution of his will constitutes a revocation of the will by implication of law both as to personal and real; estate. (Havens v. Van Den Burgh, 1 Denio, 27; Matter of Gall, 5 Dem. Surr. 374; Parish v. Parish, 42 Barb. 274; Brush v. Wilkins, 4 Johns. Chan. 506; Bloomer v. Bloomer, 2 Bradf. Surr. 339.)
+At common law the marriage of a man does not revoke his will in regard to either real or personal estate. (Brush v. Wilkins, 4 Johns. Chan. 506.)
+But at common law the will of a single woman is revoked by subsequent marriage alone, without birth of children. (Smith v. Clemsen, 6 Houn. (Del.) 171; Chapman v. Dismer, 14 App. Cas. (Dist. of Col.) 446; In re Carey, 49 Vt. 236.)
+The common-law rule that marriage of. a woman revokes her will has been adopted by express statutory provisions in many jurisdictions. (In re McLamey, 153 N. Y. 416; Brown v. Clark, 77 N. Y. 369.)
+BIRTH OP ISSUE.
+At common law the birth of a child does not revoke a-will made after marriage. (Brush v. Wilkins, 4 Johns. Chan. 506; Ordish v. McDermott, 3 Redf. Surr. 460.)
+POSTHUMOUS CHILDREN".
+A pretermitted child- -horn after the execution of the will and before testator’s death takes the share to which it would have been entitled if the. deceased had died intestate. (In re Murphy, 144 N. Y. 557.)
+So also as to a -pretermitted posthumous child, (Sanford v. Sanford, 5 Lans. 486.)
