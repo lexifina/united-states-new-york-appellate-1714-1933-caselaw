@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, Appellate Division"
 decided: "1896-03-13"
-citations: ["11 N.Y. Crim. 97", "73 S. R. 496", "73 N.Y. St. Rep. 496", "37 N.Y.S. 1005", "11 N.Y. Crim. 68", "73 S. R. 540", "73 N.Y. St. Rep. 540", "37 N.Y.S. 998"]
+citations: ["11 N.Y. Crim. 97", "73 S. R. 496", "73 N.Y. St. Rep. 496", "37 N.Y.S. 1005"]
 reporter: "ny-crim"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["PEOPLE v. WILLIAM W. McLAUGHLIN."]
 source_url: "https://static.case.law/ny-crim/11/cases/0097-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1174956
-cites_cases: ["107 N. Y. 427", "11 N. Y. 477", "110 N. Y. 300", "110 N.Y. 300", "112 N. Y. 79", "12 St. Rep. 217", "136 N. Y. 62", "14 N. E. 319", "143 N. Y. 455", "147 N. Y. 78", "18 N. E. 156", "18 St. Rep. 288", "19 N. E. 638", "20 St. Rep. 486", "3 Hun, 560", "32 N. E. 616", "38 N. E. 950", "41 N. E. 505", "47 N. Y. 404", "47 N.Y. 404", "48 St. Rep. 900", "63 N. Y. 143", "67 Barb. 548", "8 Abb. Prac. 59", "9 N. Y. 263"]
+cites_cases: ["107 N. Y. 427", "110 N. Y. 300", "110 N.Y. 300", "112 N. Y. 79", "12 St. Rep. 217", "136 N. Y. 62", "14 N. E. 319", "143 N. Y. 455", "147 N. Y. 78", "18 N. E. 156", "18 St. Rep. 288", "19 N. E. 638", "20 St. Rep. 486", "32 N. E. 616", "38 N. E. 950", "41 N. E. 505", "48 St. Rep. 900", "63 N. Y. 143", "67 Barb. 548"]
 ---
 
 # People v. McLaughlin
