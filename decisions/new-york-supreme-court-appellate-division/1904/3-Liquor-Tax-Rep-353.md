@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1904-05"
+citations: ["3 Liquor Tax Rep. 353"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of Patrick W. Cullinan, as State Commissioner of Excise, Respondent, for an Order Revoking and Canceling Liquor Tax Certificate No. 4,425 Issued to Nicolino Santoro. Schmitt & Schwanenfluegel, Appellant."]
+source_url: "https://static.case.law/liquor-tax-rep/3/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1292196
+cites_cases: ["19 App. Div. 292", "94 App. Div. 445"]
+---
+
+# In re Cullinan
+
+## Majority (McLaughlin, J.:)
+
+McLaughlin, J.:
+This is an appeal from an order denying a motion to intervene and defend a proceeding instituted to cancel a liquor tax certificate.
+On the 30th of April, 1903, a liquor tax certificate was issued to Nicolino Santoro, authorizing him for a period of one year from that date to traffic in liquors at No. 24 Marion street, borough of Manhattan. Santoro borrowed from Schmitt & Schwanenfluegel $1,200 with which to pay the excise tax, and to secure the payment of which he assigned to it the liquor tax certificate and all rebate that might become due thereon upon a surrender thereof.
+According to the moving papers it appeared that on or about the 1st day of September, 1903, Santoro ceased to traffic in liquors at the place named and the tax certificate was thereupon delivered to Schmitt & Schwanenfluegel, who, on the second of November following, surrendered the same for cancellation to the Special Deputy Commissioner for the boroughs of Manhattan and The Bronx; that there was attached to the certificate a petition praying for a cancellation and the assignment and power of attorney of Santoro; that upon receiving the certificate the Special Deputy Commissioner gave to Schmitt & Schwanenfluegel the following receipt:
+u New York State Department oí' Excise.
+“ Received for cancellation this 2nd day of November, 1903, Certificate No. 4,425, issued April 30, 1903, to Nicolino Santoro of 24 Marion St., for $1,200, on which there is due Schmitt & Schwanenfluegel, Atty., etc., as computed by me a rebate of $585, one-half of which is payable by Comptroller Grout, New York, the fiscal officer of New York and one-half by the Treasurer of the State of New York.
+“ GEORGE HILLIARD,
+“ C. H. H.
+“ Special Deputy Commissioner for the Boro’s of Marín and Bronx.”
+That after Santoro ceased to traffic in liquors one Amico attempted to continue the traffic at 24 Marion street, and an agent of Schmitt & Schwanenfluegel called the attention of a police officer to that fact, and Amico was thereupon arrested; that on the 24th of November, 1903, this proceeding ivas instituted to revoke the certificate in question, upon the ground that the.acts of Amico were those of Santoro, and that sales had been made in violation of the Liquor Tax Law; that the petition and order to show cause were served upon Santoro by delivering the same to a person in charge of the premises No. 24 Marion street; that service was not made upon, nor was any notice of the proceeding given to Schmitt & Schwanenfluegel; that, upon the return of the order to show cause, Santoro did not appear and the matter was thereupon sent to a referee to take proof and report to the court; that hearings were had before the referee, and the proceeding, so far as he was concerned, was substantially closed, though he had not made a report; that Schmitt & Schwanenfluegel, upon ascertaining that the proceeding was pending for a cancellation of the certificate, applied for leave to intervene, file an answer and defend the same, which motion was denied, and it has appealed.
+The motion was denied, as appears from the opinion of the learned justice sitting at Special Term, upon the ground that the court had no .power to permit the intervention. It does not need the citation of authorities to demonstrate upon the facts above set forth that the court had the power to permit the intervention, and we think it erred in not exercising the same. The fact is not disputed that Santoro had assigned the certificate to Schmitt & Schwanenfluegel, nor is it denied that the respondent, acting through the special deputy commissioner, had recognized the assignment as well as the power of Schmitt & Schwanenfluegel to surrender it and receive the rebate. A liqquor tax certificate, if not property (People v. Durante, 19 App. Div. 292) in the strict sense in, which that word is used, constitutes a property right (Niles v. Mathusa, 20 id. 483; Matter of Lyman [Maloney Certificate], 53, id. 330; Matter of Lyman [Texter Certificate], 59 id. 217), and when the one in question was assigned to Schmitt- & Schwanenfluegel, and it had taken actual possession of and surrendered the same for cancellation — which act on its part had been recognized by the State — it ought not in fairness to be deprived of such right without notice and an opportunity to be heard in defense thereof. Whether it could in fact is a question which we' do not now pass upon. But we think upon the facts here appearing it should be permitted to intervene and show, if it can, that there has been no violation of the statute which would justify a cancellation of the certificate.
+The order appealed from, therefore, must be reversed, with ten dollars costs and disbursements, and the motion granted, with ten dollars costs.
+O’Brien, Ingraham, Hatch and Laughlin, JJ., concurred.
+' Order reversed, with ten dollars costs and disbursements, and motion granted, with ten dollars costs.
