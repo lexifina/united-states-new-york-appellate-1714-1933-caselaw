@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "1916-10"
+citations: ["97 Misc. 4"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David Haas and Sarah Haas, as Executors of the Estate of Leopold Haas, Deceased, Appellants, v. Fidelity and Deposit Company of Maryland, Respondent."]
+source_url: "https://static.case.law/misc/97/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 711115
+cites_cases: ["151 N. Y. Supp. 371", "159 N. Y. Supp. 712", "91 Misc. Rep. 539"]
+---
+
+# Haas v. Fidelity & Deposit Co. of Maryland
+
+## Majority (Guy, J.)
+
+Guy, J.
+The action was brought by Leopold Haas upon defendant’s policy insuring against burglary, larceny and theft to recover the sum of $920, the alleged value of a diamond ring, diamond breastpin and silk robe claimed to have been stolen from the residence of the holder of the policy between November 16, 1912, and January 7,1913. There have been three trials in this case. Before the first trial the plaintiff died, and the action was continued by his executors.
+The testimony introduced by the plaintiffs at the last trial was that Leopold Haas, the owner of the diamond ring, lived at 19 West Ninety-sixth street; that he was seventy-three years old, had been ill for a long time prior to November 23,1912, suffering from hardening of the arteries; that he was very feeble, very sick, partially paralyzed, could not talk very much, and at the time of the alleged disappearance of the property in the care of a man nurse. On the date named his daughter Rebecca Weiner swore that he wore two rings — a large diamond ring, set in a gypsy setting, that came first (and which according to the testimony had been given him by his wife on the twenty-fifth anniversary of their wedding) and after the diamond ring a very small guard ring. The sick man’s room was in the back of the extension on the first floor, separated from the bathroom by a hallway. On November twenty-third the nurse put Haas into a rolling chair and rolled him into the bathroom, and at the time he was thus taken into the bathroom he wore the diamond ring already described. The nurse closed the bathroom door and locked it, and they were the only persons in the bathroom. In about an hour and a half after they went into the bathroom Mrs. Weiner went into her father’s room and saw him in bed; the nurse was not there; the daughter saw that her father did not have the rings on; and the nurse, who did not come back into the room until about twenty-five minutes after the daughter went there on the second occasion, just came in when , she missed them. She immediately went out into the bathroom and looked all over and could not find the rings ; she then looked in the tub and found the guard ring, which was larger than the diamond ring, in the sieve; with others of the family she looked under the mat, in the hall and all over in her father’s room, but could not find the diamond ring. A plumber was sent for, and in .the presence of Mrs. Weiner and other members of the family he examined the bath tub and the strainer, tore up.the tiled floor; located the trap, made an opening in the trap so that he could see into it, and get his hand into it, and other members of the family put their hand® into the trap, but there was nothing found there. He then with one or more members of the family went downstair® to the main sewer in the cellar, opened the cover of the main trap and put his hand down and brought out a lot of sediment, rust, pins, needles and stuff gathered there, but could not find the ring. After November twenty-third the plumber examined the main trap two or three times and found some little brass rings there.. He tried to put a five cent piece through the -strainer of the bathtub but it would not go through. The diamond.ring was never found. The testimony of Mrs. Weiner and of the plumber was corroborated by other members of the household.
+At the close of the plaintiffs’ case the learned trial court dismissed the complaint on the ground that the ‘ ‘ proof of larceny is insufficient. ’ ’
+Upon the record made by plaintiffs the defendant should have been put on its proof with respect to the diamond ring. The plaintiffs were not required to show by direct evidence a felonious abstraction of'the property; it was enough if they showed circumstances sufficient to raise an inference that the property was feloniously abstracted; and we are of opinion that the plaintiffs made out a prima facie case. Stich v. Fidelity & Deposit Co. of Maryland, 159 N. Y. Supp. 712; Orlando v. Great Eastern Casualty Co., 91 Misc. Rep. 539; Feinglass v. New Amsterdam Casualty Co., 151 N. Y. Supp. 371. That plaintiffs’ witnesses had added to their testimony given on the former trials was a circumstance to be considered by the jury in arriving at their verdict; it did not as matter of law render their testimony incredible.
+Respondent claims that the holder of the policy breached the warranty that he had never sustained a loss by burglary, theft or larceny; but as this defense was not pleaded it cannot be considered oh the appeal.
+Bijur and Shearn, JJ., concur.
+Judgment reversed and new trial ordered, with costs to appellants to abide event.
