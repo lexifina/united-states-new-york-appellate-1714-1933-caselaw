@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, Appellate Division"
 decided: "1903-06"
-citations: ["3 Liquor Tax Rep. 179", "3 Liquor Tax Rep. 175"]
+decided_precision: "month"
+citations: ["3 Liquor Tax Rep. 179"]
 reporter: "liquor-tax-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Patrick W. Cullinan, as State Commissioner of Excise of the State of 
 source_url: "https://static.case.law/liquor-tax-rep/3/cases/0179-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1292309
-cites_cases: ["84 App. Div. 292", "84 App. Div. 296", "90 N. Y. 649"]
+cites_cases: ["84 App. Div. 296"]
 ---
 
 # Cullinan v. Fidelity & Casualty Co.
