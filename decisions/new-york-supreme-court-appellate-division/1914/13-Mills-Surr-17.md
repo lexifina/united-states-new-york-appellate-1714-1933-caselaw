@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, Appellate Division"
 decided: "1914-03-20"
-citations: ["13 Mills Surr. 17", "161 A.D. 525", "13 Mills Surr. 20", "161 A.D. 528"]
+citations: ["13 Mills Surr. 17", "161 A.D. 525"]
 reporter: "mills-surr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["In the Matter of the Judicial Settlement of the Account of Max Scheue
 source_url: "https://static.case.law/mills-surr/13/cases/0017-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1087530
-cites_cases: ["111 App. Div. 281", "154 N. Y. 773", "161 App. Div. 525", "18 App. Div. 306", "186 N. Y. 584"]
+cites_cases: ["111 App. Div. 281", "154 N. Y. 773", "18 App. Div. 306", "186 N. Y. 584"]
 ---
 
 # In re the Judicial Settlement of the Account of Scheuer
