@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-10-23"
+citations: ["75 N.Y. St. Rep. 647"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David M. Koehler et al. v. New York El. R. Co. et al."]
+source_url: "https://static.case.law/ny-st-rep/75/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1996553
+cites_cases: ["139 N. Y. 19"]
+---
+
+# Koehler v. New York Elevated Railroad
+
+## Majority (BARRETT, J.)
+
+BARRETT, J.
+—The sole question here is as to the legal effect of a paper signed by the plaintiffs’ predecessor in the title, and ad-' dressed to certain commissioners appointed by the general term of the supreme court, requesting these commissioners to determine that the defendants’ road ought to be constructed and operated on route previously designed by the rapid-transit commissioner appointed under chapter 606 of the Laws of 1875. That route included the line of the elevated railway in front of the plaintiffs’ premises. The defendants claim that, by his signature to this request, the ploiutiffs’ 'predecessor, Hasher, abandoned his easements appurtenant to the premises in question, and that, consequently, the plaintiffs’ complaint should have been dismissed. The commissioners to whom the request was addressed were appointed because of,the failure of the company to secure the consjnt of one-half in value of the abutting owners upon the streets to be occupied by the railroad. The constitution required that, in lieu of said consents, the company should secure the determination of commissioners to be appointed by the general term of the supreme court, approving the construction of the railroad, and the confirmation of such approval by the general term. It is not claimed that Hasher gave his consent, either before or after the appointment of these commissioners, the erection and operation of the railroad; nor is it claimed that he ever had any direct dealings with the company upon the subject. The defendants’ contention is that the request addressed to the commissioners was equivalent to a direct consent that the road, be built, and that thus an abandonment of the easements was effected, within the rule laid down in White v. Railway Co., 139 N. Y. 19, 54 S. R. 409. The request, was as follows:
+“Hew York, February-, 1876.
+“To the Hon. O. H. Palmer, E. Z. Laurence, Esq., and E. P. Wheeler, Esq., 'Commissioners, etc. : The undersigned, owners or occupants of property on the line of the Hew York Elevated Railroad, as designated by the rapid transit commissioners appointed under chapter 606 of the Laws of Hew York for the year 1875, understanding that the said road is to be constructed over the center of the street or avenue in Third and Eighth avenues, and on such other portions of said line as it is practicable so to construct said road, earnestly request your honorable body to determine that such road ought to be constructed and operated on the route so designated. ”
+We think there is a marked distinction between this request and the formal consent given directly to the - company in the White .Case. What Hasher requested was merely a determination by the commissioners favorable to the construction and operation of the railroad; that is, of course, to its lawful construction and operation. But how could there be lawful construction and operation without just compensation for property rights to be thereupon taken ? The request did not contemplate an abandonment of Nasher’s easements, nor imply a cession thereof to the company. It contemplated nothing more than-construction and operation, with due regard to other people’s rights, including, naturally, the signer’s. There is not the vaguest suggestion of a waiver of compensation for the easements, or of any other legal right. Further, the request was not a contract or engagement with the company. The commissioners were not its agents, nor did they represent it in any such sense as the appellants content. The commissioners were public officers, appointed by the court to act independently, and to furnish the court with their judgment upon a given question. The request was simply an appeal to that judgment. It amounted, in fact, to but little more than an expression of opinion as to the wisdom and propriety of the proposed construction.
+The claim of abandonment founded upon this paper, thus addressed to these commissioners, and upon the further fact that neither Hasher nor any other of the plaintiffs’ predecessors in title has chosen" to bring an action in vindication of their clear legal rights, is, in our judgment, far-fetched and without merit. The same conclusion applies to the suggestion that the company relied and acted upon the request, either in fact or law, as an abandonment of Hasher’s easement’s or as a consent to their destruction without just compensation.
+The judgment appealed from should therefore be affirmed, with costs.
+All concur.
