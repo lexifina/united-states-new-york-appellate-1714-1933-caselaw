@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1913-02-21"
+citations: ["29 N.Y. Crim. 212", "155 App. Div. 449"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MICHAEL J. DRUMMOND EX REL. MAY McNEIL v. JOSEPH DOLAN."]
+source_url: "https://static.case.law/ny-crim/29/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1204312
+cites_cases: ["185 Mass. 71", "72 App. Div. 527", "75 Hun, 568", "96 App. Div. 27"]
+---
+
+# Drummond ex rel. McNeil v. Dolan
+
+## Majority (Jenks, P. J.:)
+
+Jenks, P. J.:
+This appeal is from an order of filiation made by a divided court. As the proceeding is quasi criminal (People ex rel. Mendelovich v. Abrahams, 96 App. Div. 27; sub nom. People ex rel. Commissioner v. Abrahams, 105 id. 498), the evidence of guilt should be-entirely satisfactory. (People v. McKay, 72 App. Div. 527.) Moreover, the charge is so easy to make and so hard to defend that there should be sedulous scrutiny of the record. (Burke v. Burpo, 75 Hun, 568.) The charge is supported only by the testimony of the woman and of her mother, of whom the latter but testifies to a promise of reparation by marriage, made by the defendant in the presence of the two women. As the complainant testifies to a number of illicit acts, it was virtually impossible to contradict her as to them by any testimony other than denials thereof. And there is no direct proof that the woman at the time of her alleged relations with the defendant was of such loose morals as to make the paternity of any particular person doubtful.
+The complainant testifies that she met the defendant first in May, 1908; that she had illicit relations with him in that month, and that she was nineteen years of age on May 5, 1910. On July 29, 1910, she charged the defendant with rape in that, on November 15, 1909, he had intercourse with her, a female under the age of eighteen, to wit, seventeen years. She admits that this charge was dismissed because of her “ mistakes.” She denies that any person, including specifically Miss Hawkins, had ever introduced the defendant to her. She admits that she knew a man named Elsas, “ just to bid the day to, that’s all,” denies that he had slept in her house and with her in the same bed, and that such conduct had forced her sister to leave the home. The mother, who testifies but to the admissions of the defendant (see Sir John Romilly, quoted in Moore on Facts, § 1173), testifies that she did not sign any paper in the rape charge, but, confronted with her affidavit, admits the signature and testifies that she had deposed that her daughter was under eighteen years old, with the present explanation that she did not know how she came to say it, save that she “ thought that was her right age.”
+Besides the evidence of the defendant, who denies his paternity and his alleged admissions, Miss Hawkins testifies in contradiction of the complainant that, on April 1, 1910, she introduced the man and woman to one another, who at that time had demeaned themselves as strangers. Mrs. Chasterton, the sister of the complainant, testifies as to an intimacy between her sister and Elsas, who she says had been accustomed to sleep with her sister in their house, and whom she had seen in bed with her sister. She further testifies that when she complained to her mother, the latter put her out of doors. It is quite true that she does not identify the time when she saw her sister and Elsas in bed together until after August, 1910. Miss Laffie testifies to seeing an act of great familiarity between the complainant and Elsas in July. Proof was given of the reputation of the defendant for decency and morality. Although the sole issue was the paternity of the defendant, and the question was not whether all that was said about it was true (Burns v. Donoghue, 185 Mass. 71), nevertheless, in the face of the practical impossibility of direct contradiction of the complainant upon the issue, we must consider the more carefully her credibility as revealed by her own testimony and by contradictions thereof. I advise that the order be vacated, with costs, and that a new trial be ordered.
+Hirschbekg, Bure, Woodward and Rich, JJ., concurred.
+Order vacated, with costs, and new trial ordered.
