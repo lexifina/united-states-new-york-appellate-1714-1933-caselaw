@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-04-14"
+citations: ["74 N.Y. St. Rep. 188"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lemuel S. Bonnell, Resp't, v. Richard H. Gardner et al., App'lts."]
+source_url: "https://static.case.law/ny-st-rep/74/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1993723
+cites_cases: ["42 Hun, 636", "45 Barb. 382", "6 Rob. 533", "63 St. Rep. 486", "70 N. Y. 270", "82 Hun, 123", "99 N. Y. 616"]
+---
+
+# Bonnell v. Gardner
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+It is not clear that the evidence sustains the finding that only $300 a year out of the income of the trust fund is necessary for the support of the debtor and those dependent upon him. The decree refers only to future income, and therefore the point is, what sum should be fixed as the situation appeared at the time of the trial in May, 1895 ? If the earnings of the debtor may be considered, see Moulton v. De Ma Carty, 6 Rob. 533, it does not appear what they were at the time of the trial. In December, 1890, he was in the employ of Gardner & Tail, of New York city, at $15 a week. He left them, and for five years has be.en running a laundry in Brooklyn. How much he gets out of that does not appear. It is not, according to the evidence, a flourishing business. His wife is in poor health, and he has an invalid son dependent upon him. It is not shown how much it costs them to live, or how much ordinarily it costs people in their situation to live. He and his wife seem to have had the income up to the time of the trial, and were asking for more. His father had been accustomed to help him. but to what extent does not appear. The wife owned a house that rented for $40 a month. On this was a mortgage of $3,000. They do not keep up the taxes on the house. The manner in which the debtor has been accustomed to live is an element. RAPALLO, J., in Williams v. Thorn, 70 N. Y. 270, 278; Andrews v. Whitney, 82 Hun, 123; 63 St. Rep. 486; Genet v. Beekman, 45 Barb. 382. The burden is on plaintiff to show that there is a surplus of income. Kilroy v. Wood, 42 Hun, 636. In that case the complaint was dismissed for lack of evidence to show what would be a proper amount to allow the beneficiary for his support. In Tolles v. Wood, 99 N. Y. 616, Ruger, C. J., seems to have been of the opinion that, aside from proof as to the actual cost of living to a party, the best, if not the only, competent proof to be given on the subject was evidence as to the amount and cost of the various items going to make up the expense of living in the locality of the debtor to a person in his position. The opinion of Judge RUGER, was concurred in by Judge EARL, but the question was not considered by the other judges. It seems to us that the evidence in this case is not sufficient to enable a court- to fairly say what is a proper amount to be allowed to the debtor for the support of himself and those dependent upon him. If not, there should be a reversal.
+Judgment reversed, and new trial granted; costs to abide the event.
