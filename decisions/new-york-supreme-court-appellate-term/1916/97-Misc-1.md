@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "1916-10"
+citations: ["97 Misc. 1"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harry Cohen, Appellant, v. Erie Railroad Company, Respondent."]
+source_url: "https://static.case.law/misc/97/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 711045
+cites_cases: ["54 N. Y. 512", "56 N. Y. 295"]
+---
+
+# Cohen v. Erie Railroad
+
+## Majority (Guy, J.)
+
+Guy, J.
+On May 29,1915, the plaintiff at the Chambers street ferry in this city bought a round-trip ticket on defendant’s railroad to Port Jervis and back from Port Jervis to New York. . On the part of the ticket which entitled plaintiff to passage to Port Jervis was printed “ Not good if detached from ticket bearing signature.” The signature was on the part calling for transportation from Port Jervis.to New York and on both parts it appeared that they could be used on or before October thirty-first of the year in which sold.
+After the plaintiff boarded the train for Port Jervis he handed the round-trip ticket to the conductor, and the latter tore off part of the ticket and returned the other part to the plaintiff, who put it in his vest pocket. On the following day the plaintiff took the first train from Port Jervis to New York, and when the conductor of that train (whom I will refer to as the second conductor) demanded a ticket plaintiff took from his vest pocket the ticket which had been given him by the first conductor and handed it to the second conductor. He however called plaintiff’s attention to the fact that the ticket produced was for passage from New York to Port Jervis, said it was no good on the return trip, and, as plaintiff had no cash to pay for another ticket, the second conductor compelled him to get off the train at the next station, from which plaintiff testified he had to travel about eight miles through the woods before he could procure the necessary money to buy a ticket for New York.
+The action was to recover damages resulting from the negligence of defendant’s conductor in retaining the wrong part of plaintiff’s round-trip ticket on plaintiff’s journey to Port Jervis, and at the close of plaintiff’s case the court dismissed the complaint.
+The ruling presents reversible error. The regulations of the defendant requiring passengers holding excursion tickets to surrender to its conductor the entire ticket, it is clear that the company is responsible for the neglect of the conductor to return to the passenger that p¿irt of the ticket entitling him to the return trip. The plaintiff testified he did not look at the ticket after he purchased it and before he gave it to the conductor, and that he paid no attention to the part given back to him by the first conductor, and that he did not know he had the wrong part of the ticket until the second conductor called it to his attention on May thirtieth; and on these facts it is claimed plaintiff was guilty of contributory negligence as matter of law. We cannot agree with this contention. It seems to us that plaintiff had a right to assume that defendant’s conductor would use reasonable care in performing his duties, and regarding these facts in the light most favorable to defendant they at most require the submission of the question of contributory negligence to the jury.
+This case is manifestly different from Elmore v. Sands, 54 N. Y. 512, relied upon by defendant, in which the passenger purchased a ticket upon which was stamped “ Good this date only,” and it was held that after retaining the ticket for several days before using it he could not complain because he was put off the train. In that case by the terms of the contract the passenger was not entitled to transportation on the day he boarded the train and presented his ticket; while here the plaintiff’s contract entitled him to a return trip, and he would have made that trip and been spared the annoyance and humiliation to which he was subjected were" it not for the negligence of the first conductor. Townsend v. New York Central & H. R. R. R. Co., 56 N. Y. 295.
+Bijur and Shearn, JJ., concur.
+Judgment reversed and new trial ordered, with costs to appellant to abide event.
