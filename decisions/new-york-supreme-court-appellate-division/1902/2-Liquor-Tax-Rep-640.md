@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1902-03"
+citations: ["2 Liquor Tax Rep. 640"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of New York ex rel. The Paul Weidmann Brewing Company, Respondent, v. Henry H. Lyman, as State Commissioner of Excise of the State of New York, Defendant. Patrick W. Cullinan, Present State Commissioner of Excise of the State of New York, Appellant."]
+source_url: "https://static.case.law/liquor-tax-rep/2/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1293413
+cites_cases: ["168 N. Y. 669", "53 App. Div. 470", "69 App. Div. 399", "69 App. Div. 406"]
+---
+
+# People ex rel. Paul Weidmann Brewing Co. v. Lyman
+
+## Majority (Goodrich, P. J.:)
+
+Goodrich, P. J.:
+This order should be affirmed on the authority of People ex rel. Fallert Brewing Co. v. Lyman (53 App. Div. 470; affd., without opinion, 168 N. Y. 669). I can find no material difference between the cases. In the Fallert case a certificate of the clerk of the Magistrate’s Court was annexed to the petition, certifying that the complaint against the licensee was dismissed on the merits.
+The denial in the return herein that Mason, the original licensee, was duly tried before Magistrate Voorhees and discharged, is not a sufficient denial of a question of fact. It is a mere legal conclusion that the discharge of the prisoner was not in accordance with law. That, as was said by Mr. Justice Jenks in the Fallert case, is worthless. The discharge was a legal discharge, and that is enough. Here, there is no such certificate, but the •allegation is explicit and sufficient to establish the fact of acquittal.
+At the present term we have held, in People ex rel. Stevenson Brewing Co. v. Lyman (69 App. Div. 406), that an alternative writ of mandamus was proper, because the return charged violations of the law other than the one upon which there had been a trial and dismissal.
+In the return in the present case there is no violation alleged other than the one which has been tried, and consequently there is no issue to be tried.
+The order must, therefore, be affirmed, with costs.
+All concurred.
+Order affirmed, with ten dollars costs and disbursements.
