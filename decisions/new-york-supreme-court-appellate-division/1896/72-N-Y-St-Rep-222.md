@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-01-24"
+citations: ["72 N.Y. St. Rep. 222"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anton Exhorn, Resp’t, v. Paulina Exhorn, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/72/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988199
+cites_cases: ["39 Hun, 402", "53 St. Rep. 617", "70 Hun, 513"]
+---
+
+# Exhorn v. Exhorn
+
+## Majority (BARRETT, J.)
+
+BARRETT, J.
+—This action was brought to reform a referee’s deed by inserting the plaintiff’s name as cograntee with the defendant. No fraud is alleged, and the case rests solely upon an allegation of mistake. The deed was delivered in July, 1877, and the action was commenced in August, 1894. The defendant pleads the ten year statute of limitations. The plaintiff acknowledges that this would be fatal but for the fact that he did not discover the mistake until October, 1884. But the running of the statute did not depend upon the discovery of the mistake. That was the general rule in equity before the Code. The decisions of courts of equity then placed mistake upon the same footing in this regard as fraud. Under the Code, however, the rule as to discovery of the facts is limited to fraud; and all other cases are excluded from its operation.
+As was said by Allen, J., in Oakes v. Howell, 27 How. Prac. 151:
+“ From the absolute obligation of the present statute upon the courts, and its clear application to every case that can arise, and to every form of action, by every principle of statutory construction the cases of mistake and accidents are excluded from the exceptions in favor of actions for relief from fraud.”
+This case has been repeatedly cited with approval, and was followed in Hoyt v. Putman, 39 Hun, 402, 406, and Sprague v. Cochran, 70 Hun, 513 ; 53 St. Rep. 617.
+We think the rule is sound. The court cannot read the discovery provision into section 388 of the Code of Civil Procedure. The legislature in this connection acted advisedly and deliberately, both with regard to inclusions and exclusions. Had it been so intended, it would have been as easy and simple to provide for the discovery of facts constituting mistake as of facts constituting fraud. The legislature has not done so, and consequently the cause of action here accrued upon the delivery of the deed.
+Upon the facts, however, we have no doubt that in July, 1882, the plaintiff had full knowledge that his wife was the sole grantee in the deed. He made an affidavit then, stating that he had read over his wife’s affidavit in which this assertion appears, and that his wife’s affidavit was true to his own knowledge. There are other facts, too, from which the conclusion is inevitable that in the year 1882 plaintiff was fully acquainted with the circumstance of which he now complains. Indeed, the case throughout rests upon a very slight foundation. The evidence of mistake was far from clear or convincing; and we think that the complaint should have been dismissed upon the merits. The truth is that the plaintiff put the property in his wife’s name at a time when they were living happily together. Now that they have separated, he naturally wants the property back. As that is impossible, he would, at least, like to share it. The law cannot help him. Upon both the facts and the law, the judgment should be reversed, and a new trial ordered, with costs to the appellant to abide the event.
+All'concur.
