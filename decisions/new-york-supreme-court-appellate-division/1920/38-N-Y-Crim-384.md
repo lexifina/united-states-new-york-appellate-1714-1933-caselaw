@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1920-06-11"
+citations: ["38 N.Y. Crim. 384", "192 App. Div. 403", "192 A.D. 403"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. JOSEPH KRAUSS."]
+source_url: "https://static.case.law/ny-crim/38/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1222185
+cites_cases: ["161 App. Div. 920", "193 N. Y. 46", "215 N. Y. 592"]
+---
+
+# People v. Krauss
+
+## Majority (Page, J.:)
+
+Page, J.:
+The defendant, a boy of seventeen years of age, was in the employ of Stern Brothers, a department store in the borough of Manhattan, city of Mew York. He was charged with the larceny of a vanity box alleged to be of the value of one dollar. The entire evidence given in the case related entirely to a confession alleged to have been made by the defendant and consisted of the testimony pf Eugene Orth, who was a store detective employed by Stern Brothers. At the conclusion of the People’s case the defendant’s counsel moved to dismiss. Upon the denial of the motion the defendant rested without offering proof, and renewed his motion on the entire case to dismiss the complaint. The court, without formally passing upon this motion, found the defendant guilty, Justice Mclnerney dissenting and voting to acquit. The defendant’s counsel failed to take an exception to the denial of his motion and to the implied denial by the court’s giving judgment. The district attorney makes a point of this failure in his brief, but to my mind this is immaterial because the conviction is based entirely upon the alleged confession of the defendant, without additional proof that the crime charged had been committed as required by section 395 of the Code of Criminal Procedure. The law in this_ state is very clear, and has been thus stated by the Court of Appeals in a more recent case than those cited by the district attorney or counsel for the defendant: “ There must he evidence in addition to the confession to prove the corpus delicti, but when, as in this case, the corpus delicti is proved hy independent evidence, and the defendant has voluntarily confessed his guilt, a case for the jury is made out, * * *. In this state the statute referred to above (Code Crim. Proc., § 395), has put at rest any uncertainty that may have existed upon this subject and codifies the rule that there must be proof in addition to the confession as to the corpus delicti (People v. Roach, 215 N. Y. 592, 600.)
+This rule was enforced in this department in People v. Gillman (161 App. Div. 920), in which the court said: “ Section 395 of the Code of Criminal Procedure provides that the confession of a defendant ‘ is not sufficient to warrant his conviction, without additional proof that the crime charged has been committed.’ To apply that section to this particular case it was necessary, to warrant a. conviction, that the fact of the larceny should be proven by evidence aliunde the defendant’s confession. Ro such proof is shown by the record.”
+In this latter case it is true that the defendant took the stand and denied both the confession and the commission of the crime, but an examination of the opinion will show that this incident, which might distinguish that case from the case under consideration, was given no effect, and the judgment of conviction was reversed solely upon the ground fhat there was no proof of the larceny except the alleged confession of the appellant.
+We have examined the cases cited hy the district attorney and many of those cited in People v. Brasch (193 N. Y. 46), relied upon by the district attorney. But in all those cases there were facts and circumstances proved strongly tending to show the commission of a crime outside the confession. In People v. Brasch the defendant had been convicted of the murder of his wife, who had died from drowning. There was no proof that she did not jump or fall into the water, and there was no eye-witness to the occurrence; her body was found in the canal; there were no signs of bruises on her body or other evidence of violence being used toward her. But it was proved that the defendant left certain people and went to the house where his wife was staying, and that they left there together and that within a short time thereafter the defendant returned to the people whom he had left. It was further shown that he had a motive for killing her, and that his conduct was wholly inconsistent with his wife having been accidentally drowned while in his company, and these additional facts, taken with the confession, were held to be sufficient. But in the case under consideration there is no evidence that a vanity box had been stolen. The witness Orth testified that he had not seen either one of the two packages that he found in the defendant’s house before he found them there, and did not see anybody take those two packages, and that the only thing he could tell the court is what the defendant said to him.
+In my opinion the evidence was entirely insufficient, and the judgment of conviction should be reversed and a new trial ordered.
+Clarke,. P. J., Laughlik, Dowlikg and Merrell, JJ., concur.
+Judgment reversed and new trial ordered. Settle order on notice.
