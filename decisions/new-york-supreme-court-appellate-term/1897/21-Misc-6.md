@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "1897-07"
+citations: ["21 Misc. 6"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lyman G. Bloomingdale, Respondent, v. Arthur A. Hodges, Impleaded, etc., Appellant."]
+source_url: "https://static.case.law/misc/21/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1303494
+---
+
+# Bloomingdale v. Hodges
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The defendants agreed that if Bloomingdale Brothers would-procure for them a contract with F. F. Proctor to- do certain decorating and other work upon the cafe and passages of the theatre known as Proctor’s Pleasure Palace, the defendants' would pay ten per cent, of the gross amount realized from said work to Bloomingdale Brothers. The latter firm thereupon introduced the defendants to Proctor, and through its agency a contract was made whereby the defendants were to do the work for $6,000. The work was done, and the $6,000 paid to the defendants, who thereafter declined to pay the brokerage. The firm of Bloomingdale Brothers was dissolved, and the demand became the sole property of the plaintiff as -its successor, and. as such he brought the action to recover $600.
+The facts stated are substantially conceded, and the defense pro-. ceeded on the ground that the relations between Bloomingdale Brothers and Proctor were of a confidential character; that that firm was employed by him to obtain estimates for the work; that the taking of a percentage on the job from the defendants would be. contrary to the duty owing by the Bloomingdales to Proctor, and the agreement therefor was, in consequence, illegal and unenforcible.
+If the objection had been made by Proctor, -the party alleged to have been injured, it would have come with better grace. ' But there was no complaint from him, and on the evidence there could not have been any, for Bloomingdale Brothers were not his agents or employees in the transaction. They contemplated doing the work themselves, and- finally concluded to allow the defendants to do it under the arrangement stated.
+The defendants saw no impropriety in the arrangement with the Bloomingdales until they had received their $6,000 for the work, and then they determined that it would be doing a wrong to Proctor to pay the brokerage promised. If they had followed up this determination by paying the $600 demanded to Proctor, and justified it by the plea that it of right belonged to him, there might be some degree of candor partaking of equity, if' nothing more, in the defense. They did not do that, but concluded to keep the $600 to themselves, and use the alleged fraud on Proctor as the only feasible mode open to them for a justification of that course. This will not do.
+As a rule “ a fraud upon one does not form a claim on behalf of a stranger to the transaction, not claiming under the party defrauded. A fraud is an individual and personal thing. It is a cause of complaint to the person only, upon whom it is committed. No other person can claim a benefit from it. A recovery by any other person is no defense to a claim by the party defrauded.” Comstock v. Ames, 1 Abb. Ct. App. Dec. at p. 415.
+The plaintiff’s ■ firm earned the brokerage, and no legal reason was established 'why it should not he paid to him as its successor in interest.
+There is no merit in the exceptions.
+The judgment was right,- and must be affirmed, with costs..
+Bischoff, J., concurs.
+Judgment' affirmed, -with costs.
