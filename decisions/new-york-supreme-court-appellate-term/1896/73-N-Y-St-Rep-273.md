@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "1896-02-26"
+citations: ["73 N.Y. St. Rep. 273", "37 N.Y.S. 654", "16 Misc. Rep. 49"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick Neff, Resp’t, v. Benno Klopfer et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/73/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1991112
+cites_cases: ["114 N. Y. 190", "21 N. E. 160", "23 St. Rep. 166"]
+---
+
+# Neff v. Klopfer
+
+## Majority (DALY, P. J.)
+
+DALY, P. J.
+According to the testimony of plaintiff’s witness Wilcox, he called upon the defendant who was a manufacturer of corsets, using paper boxes of a particular description, and solicited orders for the manufacture by plaintiff of such boxes; that defendant gave an order to make 5,000 boxes as a sample order, which proved to be satisfactory, and defendant then said he wished plaintiff to make 9,000, of different colors and sizes, and keep them on call, and replace when called for; that.defendant was to furnish his own labels for the boxes, and did so; that payments were to be made in monthly settlements; that defendant furnished labels for about one year, during which time there were manufactured, delivered and paid for about 150,000 boxes; that in October, 1893, plaintiff had on hand 9.000 boxes that had been made*on call, pursuant to the contract; that defendant then promised to take them, but said he was then temporarily shut down, as the tariff had .affected him, but would take them and a good many more; that defendant, however, took no more boxes, and about a year afterwards this action was brought to recover for the 9,000 boxes.
+On this state of facts, plaintiff was entitled to recover, as the justice might find that the defendant had had a Reasonable time in which to take and pay for the goods which had been manufactured and kept on call for him under his order. It is contended¡ however, that, upon a previous trial of this case, the plaintiff’s wit. ness Wilcox gave a different version of the transaction with the defendant, and testified, in substance that, upon his soliciting the defendant’s orders, the conversation was that, if plaintiff would keep stock on hand of these boxes, defendant would give him orders; and it is claimed that the keeping of stock on hand was an im ducement for orders, and that no obligation to pay for them arose until orders were given. Whatever construction might be placed upon the agreement as testified to upon the former trial, the testimony upon the last trial, amplifying the details of the conversation between the contracting parties, tended to show that the stock on hand was made upon an express and continuing order, and that the defendant was bound to receive and pay for the boxes so kept on hand,—if not within a month; according to the terms of payment agreed on, then within, a reasonable time. It is true that the witness Wilcox testified that he considered the answers he gave were substantially the same on both trials; but this construction which he puts upon the effect of his testimony is not very material, since, upon the second trial, he gave the whole conversation. As to the legal effect of the arrangement as now before us, there can be no doubt. An order to manufacture and keep constantly on hand 9,000 boxes was first given, with orders for delivery to follow from time to time, the stock on hand to be constantly kept upf It was a continuing order for 9,000 boxes to be manufactured. This construction imposes no unreasonable burden upon the defendant, who could, at the time of giving any order for delivery, notify plaintiff to manufacture no more stock, and so limit his obligations to his actual needs.
+Proof of custom was admitted by the justice to explain the meaning of the contract to keep boxes “on call.” This was proper. Evidence of custom to explain the meaning of the words “ on approval ” was held to be proper. Evidence is always admissible to explain the meaning of terms used in any particular trade, when their meaning is material to construe the contract; and the rule extends to forms of expression as well as to single words. Smith v. Clews, 114 N. Y. 190; 23 St. Rep. 166.
+Judgment affirmed, with costs.
+All concur.
