@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "1896-02-26"
+citations: ["73 N.Y. St. Rep. 280", "37 N.Y.S. 661", "16 Misc. Rep. 31"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Davidoff, Resp’t, v. Wheeler & Wilson Manufacturing Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/73/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990963
+cites_cases: ["28 N. Y. Supp. 42", "35 N. Y. Supp. 1019", "4 Misc. 185", "4 Misc. Rep. 185", "53 St. Rep. 223", "55 Barb. 194", "55 St. Rep. 696", "58 St. Rep. 380", "6 Misc. 124", "6 Misc. Rep. 124", "66 N. Y. 525", "7 Misc. 669", "7 Misc. Rep. 669"]
+---
+
+# Davidoff v. Wheeler & Wilson Manufacturing Co.
+
+## Majority (BISCHOFF, J.)
+
+BISCHOFF, J.
+The appellant’s counsel has devoted a considerable portion of his brief to argument upon the facts, and touching the weight of the evidence in this case, which industry upon his part must go unrewarded, since the affirmance by the general term below concludes upon the question of preponderance and we must confine our attention to the exceptions taken at the trial. Claflin v. N. Y. Standard Watch Co., 7 Misc. 669; 58 St. Rep. 380; Gold v. Serrell, 6 Misc. 124; 55 St. Rep. 696; Myers v. Cohn, 4 Misc. 185; 53 St. Rep. 223. There was certainly some evidence in support of the plaintiff’s cause of action, and hence no error of law appears from the denial of the defendant’s motion for a dismissal of the complaint The action was for malicious prosecution, based upon the fact that the defendant procured the plaintiff’s imprisonment for eight days, pending examination by the grand jury into the defendant’s complaint of larceny, which charged was rejected by that body. The plaintiff's evidence showed that he had received a certain machine from the defendant under a contract whereby he was to pay sums upon installment in order that title might finally vest in him, and it was further provided that the machine should not be removed from the place of delivery without notice to the defendant. Subsequently, permission for removal into the custody of one Eisenstadt was given by the defendant, and notice of such removal was received from the plaintiff. Thereafter the defendant notified the plaintiff that the machine had been removed from this last location, and required him to trace it, which he did, and forthwith sent a postal card to the defendant, advising them as to where the chattel could be found. Some days afterwards he was arrested upon the defendant’s complaint, and it is in evidence that one of the defendant’s agents admitted, at the time of the arrest, that the postal card had been received. No question of law, therefore, arises upon the evidence, since all the elements of a cause of action for malicious prosecution are found in the matters detailed. The jury believed the plaietiff’s evidence and the general term were satisfied with regard to preponderance of proof. It is not for us to look further.
+The first exception relied upon was taken to the court’s refusal to charge, “in the form requested,” that “the true inquiry for the jusy is, not what were the actual facts as to the guilt or innocence, but what did the defendant have reason to believe, and what' did he believe, in reference thereto, at the time of the complaint.” The ruling of the court was certainly very proper, since this proposition permitted inquiry as to the actual, as well as the reasonable belief of the prosecuting party, whereas the latter kind of belief was alone in question. Fagnan v. Knox, 66 N. Y. 525.
+Next it is claimed that the court erred in .refusing to charge, in effect, that, if the defendant’s action was based upon the advice of counsel given after a full and' fair statement of the case, .the plaintiff could not recover. The question of advice of counsel, however, was not in the case, since it does not appear that any ad-, vice was given favorable to the action taken. True, the defendant consulted counsel, and subsequently instituted these .criminal proceedings, but whether upon the advice of counsel or not is a matter of surmise merely. Therefore, the ruling was not erroneous. So, too, the court properly excluded the questions whether the defendant’s counsel had carefully considered the case, and had given his advice in good faith. In any aspect, this inquiry would seem to have been immaterial; but, as noted, the advice given, whatever it may have been, did not appear to have influenced the situation.
+The objection to the question put to the defendant’s manager by defendant’s counsel, touching the bringing of this complaint, “ What was my advice to you ? ” was well sustained, it not having been shown that a full and fair statement of the case had been made, and this was essential. Ames v. Rathbun, 55 Barb. 194. The fact that, subsequently, the witness stated that he had made such a full and fair statement certainly would have rendered the evidence admissible, had counsel desired to ask the question again thereafter; but the ruling, when made, could not correctly have been otherwise.
+No further points are presented, and we have but to affirm the judgment.
+Judgment affirmed, with costs.
+All concur.
