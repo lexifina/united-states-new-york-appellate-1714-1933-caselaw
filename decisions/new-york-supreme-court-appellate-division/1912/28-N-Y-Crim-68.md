@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1912-06"
+citations: ["28 N.Y. Crim. 68", "151 App. Div. 943", "151 A.D. 943"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. CHARLES CONNELL."]
+source_url: "https://static.case.law/ny-crim/28/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1203099
+---
+
+# People v. Connell
+
+## Majority (Lyon, J.:)
+
+Lyon, J.:
+The defendant was indicted charged with the crime of abandoning bis seven months’ old child, and upon the trial was convicted, and from the judgment of conviction has appealed to this' court. The indictment was found under section 480' of the Penal Law, which provided as follows “ A parent or other person charged with the care or custody of nature or education of a child under the age of sixteen years, who abandons the child in destitute circumstances, and wilfully omits to furnish necessary and proper food, clothing or shelter for such child, is guilty of felony.” From the testimony it appears that the child, which was illegitimate, was bom in June, 1911, and that the child’s mother and the defendant were married the following December, but have never lived together, and that on the day of the marriage the defendant promised to give the mother, with whom the child has always lived, three dollars per week for its support, but that he has given the mother nothing whatever. This promise to pay did not make the defendant liable for the care or custody of the child, and as there was no proof that he was the father of the child, the judgment of conviction must be reversed and a new trial had.
+Betts, J., concurred; Houghton, J., concurred in memorandum ; Smith, P. J., and Kellogg, J., voted for affirmance.
+
+## Concurrence (Houghton, J., concurring:)
+
+Houghton, J., concurring:
+The child which the defendant was convicted of abandoning - was born out of wedlock. A few months after its birth the defendant married the mother. If the child was begotten by defendant his marriage to its mother after its birth legitimatized it and he became in law its father. (Dom. Rel. Law, § 24.)* It appears to have been assumed on the trial that the defendant was the father, but the record, which is somewhat crude, does not show that such proof was made. The court in the course of his charge to the jury stated that defendant was the father of the child and married the complainant after its birth, and the defendant took no exception nor did his counsel specify such point in his motion at the close of the evidence, or in his motion for arrest of judgment. Nor did he raise such question in his brief on submission of the appeal in this court. The sole contention of the defendant was and is that the willful omission to provide any food or clothing or shelter for his child, only a few mónths old, was not an abandonment within the meaning of section 480 of the Penal Law, because its mother, his wife, chanced to have a mother and brother who earned a meagre living at menial work with whom she and the child could live and find food and shelter. At his marriage the defendant agreed to pay the mother three dollars a week for the support of the child, but he willfully refused to make even the first payment. Presiding Justice Smith and Mr. Justice Kellogg feel that, by refraining from taking the point either on the trial or on this appeal that there was lack of proof that he was the father of the child, the defendant waived the point and that the judgment of conviction should not be reversed on that ground alone; but they authorize me to state that they are of opinion, as well as myself, that the crime of abandonment was fully proven. If it were a civil action of course the failure of the appellant to raise the point on the trial and his acquiescence in the assumption by the court that he was the father of the child would constitute a waiver of the defect in proof in that respect. But I hesitate to apply such rule in a criminal case where the defect goes to the body of the crime charged. The defendant had not voluntarily assumed the care and custody of an illegitimate child begotten by some one else, for he never lived with the mother or it after his marriage. His liability and duty of care arose from his being its father and in having subsequently married its mother, thereby making it legitimate. The fact, therefore, whether he was the father was vital and necessary to his guilt. I am led to a concurrence in a reversal of the judgment of conviction in the hope also that there may be a reconciliation between the defendant and his wife under the permission of the district attorney, rather than the imposing of a term of imprisonment upon the defendant which he will deserve if he refuses to properly care for his wife and the child which I assume is his. The defendant and the mother are both very young, and for their own good, as well as that of the child, I feel constrained to give the defendant a further opportunity rather than to compel him to serve the sentence which the trial court imposed upon him. I therefore, vote for a reversal of the judgment of conviction and the granting of a new trial.
+Judgment reversed and new trial granted.
