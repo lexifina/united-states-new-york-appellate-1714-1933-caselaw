@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, Appellate Division"
 decided: "1906-05"
-citations: ["20 N.Y. Crim. 127", "113 App. Div. 150", "20 N.Y. Crim. 134", "113 App. Div. 396"]
+decided_precision: "month"
+citations: ["20 N.Y. Crim. 127", "113 App. Div. 150"]
 reporter: "ny-crim"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["THE PEOPLE v. THOMAS C. SMITH."]
 source_url: "https://static.case.law/ny-crim/20/cases/0127-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 807228
-cites_cases: ["101 Ala. 282", "130 Mo. 196", "15 N. Y. Crim. Rep. 490", "164 U. S. 694", "183 N. Y. 464", "19 N. Y. Crim. Rep. 460", "27 Conn. 316", "68 Vt. 125", "69 Mich. 363", "69 N. Y. 309"]
+cites_cases: ["164 U. S. 694"]
 ---
 
 # People v. Smith
