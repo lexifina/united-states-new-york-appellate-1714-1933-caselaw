@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1896-10-06"
+citations: ["75 N.Y. St. Rep. 554"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John McGrath v. Third Ave. R. Co."]
+source_url: "https://static.case.law/ny-st-rep/75/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1996777
+cites_cases: ["38 N. Y. Supp. 1075", "5 App. Div. 517"]
+---
+
+# McGrath v. Third Avenue Railroad
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Upon the main question of the negligence of qhe defendant and of contributory negligence upon the part of the plaintiff, we are of opinion that the evidence is sufficient to uphold the recovery for the personal injuries sustained. It would be of little service to here set down the process of reasoning by which this result is reached, as it simply involves the application of well-■established rules to slightly differing proof.
+So far as the injury to the horse is concerned, a different question is presented. There does not seem to be any sufficient evidence to show that the death of the horse was a consequence of the ■accident. The evidence upon this point tended to establish that the horse was thrown down by the force of the collison, immediately got up, was again attached to the wagon, and driven off. There was no appearance of injury to the horse, and he exhibited none as he moved off. The only testimony showing its subsequent «condition comes from the plaintiff, and is, in substance, that after the accident the horse was “ pining away ”; that be was afflicted with a soreness of the throat, which was the only trouble; and that he died in three weeks. The evidence does not show that the horse was injured in the throat or elsewhere, nor was any attempt made to show connection between any injury and the disease of which he died. Inference from the testimony that the throat trouble was the result of the accident we do not think is permissible, as such a result would be quite unusual, and is in no sense a natural consequence. The proof of the value of the horse is unsatisfactory, and much of the testimony bearing thereon was incompetent. The court declined to charge that there could be no recovery for its value. Counsel for appellant raised all of these questions upon the trial, and now insists that, for the errors thus committed, the judgment must be reversed, and a new trial ordered. This result would inevitably follow if we were unable to relieve defendant from the consequences of the error. But the value placed upon the horse clearly appears; and if we deduct this amount, as we may do (Ludlow v. McCarthy, 5 App. Div. 517 519 ; 38 N. Y. Supp. 1075), then defendant will have sustained no injury therefrom. The value of the horse was placed at $200. This sum should be deducted from the amount of the recovery.
+The judgment will therefore be modified by deducting there from the sum of $200, together with a proportionate amount of the extra allowance, and, as thus modified, should be affirmed without costs to either party in this court.
