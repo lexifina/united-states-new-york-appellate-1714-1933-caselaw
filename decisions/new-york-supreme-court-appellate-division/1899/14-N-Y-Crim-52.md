@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1899-03-22"
+citations: ["14 N.Y. Crim. 52", "56 N.Y.S. 930"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE ex rel. SULLIVAN v. ALEXANDER H. SLOANE."]
+source_url: "https://static.case.law/ny-crim/14/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1182852
+cites_cases: ["110 N. Y. 134", "17 N. E. 684", "87 N. Y. 533", "87 N. Y. 588"]
+---
+
+# People ex rel. Sullivan v. Sloane
+
+## Majority (McLENNAN, J.)
+
+McLENNAN, J.
+The certificate of conviction in this case is in the precise form prescribed by section 721 of the Code of Criminal Procedure, provided the offense for which the relator was convicted is “ briefly designated in the certificate, ” as required by the section. In the certificate the offense is designated as follows :
+“ Charged with petit larceny in stealing one mink boa, valued at $18.75, the property of J. N. Adam & Co.”
+We think that such designation was a compliance with the requirements of the section. There can be no question but that the offense is described with such certainty that no other conviction could be had for the same offense, and that would seem to be all that was intended or required by the provisions of the section above referred to. In this case the certificate of conviction does not state the time when the larceny was committed, nor the place where it was committed, except (inferentially) that it was committed within the jurisdiction of the police justice ; but there can be no question that the offense of which the relator was convicted was so fully described that he could not again be convicted of such offense. .
+The test laid down by Bishop in that regard is stated as follows:
+“ Whether, if that which is set out in the second indictment had been proved under the first, there could have been a conviction ; when there could, the second cannot be maintained ; when there could not, it can be.” 1 Bish. Or. Law (8th Ed.) § 1052, subd. 2.
+Where a defendant yelies upon an adjudication of the matters in controversy in a former suit, he is not confined to the record alone, but may show by extrinsic proof what particular matters were litigated, provided the matters sought to be shown were within the issues tried.
+Grreenleaf, in his work on Evidence (5th Ed. § 36), says :
+“ The former judgment in these cases is pleaded, with an averment that the offense charged in both indictments is the same, and the identity of the offense, which may be shown by parol evidence, is to be proved by the prisoner. This may generally be done by producing the record, and showing that the same evidence which is necessary to support the second indictment would have been admissible and sufficient to procure a legal conviction upon the first. A prima facie case on the point being made out by the prisoner, it will be incumbent on the prosecutor to meet it by proof that the offense charged in the second indictment was not the same as that charged in the first * * * Thus, if one is indicted for murder committed on a certain day, and be acquitted, and afterwards be indicted for the murder of the same person on a different day, the former acquittal may be pleaded and shown in bar, notwithstanding the diversity of days, for the day is not material, and the offense can be committed but once.”
+In the case of People v. Johnson, 110 N. Y. 134, 17 N. E. 684, the validity of two commitments was considered by the court, which were made pursuant to section 214 of the Code of Criminal Procedure, which requires that “ the nature of the crime be briefly stated in the commitment.” One of the commitments considered in that case recited that the defendant was held “ upon a charge of burglary in the third degree,” and the other that he was held “ upon a charge of grand larceny in the first degree.” It was held that such statements of the crime were in compliance with the provisions of the section of the Code above referred to. An examination of the record upon appeal in that case discloses that in those commitments the date of the commission of the crime was not stated, nor was it stated upon whom or against whom such crimes were committed, nor the place where such crimes were committed. In that case the court say, at page 141, 110 N. Y., and page 686, 17 N. E. (Ruger, C. J.):
+“ The pripcipal point urged to the form of the commitment is that the statement that Charles Johnson was held to answer ‘ upon a charge of burglary in the third degree,’ and in the other commitment that he was held 1 upon a charge of grand larceny in the first degree,’ were not a compliance with section 214 of the Code of Criminal Procedure, requiring the nature of the crime to be briefly stated therein. We think the statements made were a sufficient compliance with the requirements of the statute.”
+In the case of People v. Finn, 87 N. Y. 588, the certificate under which the relator was detained described the offense as “ the misdemeanor of petit larceny,” and in that case that description was held to be a sufficient description of the crime. In that case the certificate did state the time when the misdemeanor was committed, but, as before seen, the date is not a material part of the description of the crime.
+A large number of other cases might be cited in support of the' proposition that the provision of the section of the Code above referred to is complied with when the offense of which the person is convicted is described with such particularity as to reasonably identify such offense. In this case, notwithstanding the date and place of such offense are omitted in the description contained in the certificate, we think that the offense of which the relator was convicted is described in the certificate with such particularity that it is fully identified, and that he cannot be again convicted or put in jeopardy for such offense. The certificate of conviction in this case is in substantial compliance with section 721 of the Code of Criminal Procedurej and the order dismissing the proceeding and remanding the relator was proper, and should be affirmed. The order appealed from should be affirmed.
+Order affirmed.
+All concur.
