@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1908-01"
+citations: ["22 N.Y. Crim. 101", "123 App. Div. 822"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. ZEANIBRIA CARVELTO."]
+source_url: "https://static.case.law/ny-crim/22/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 809066
+---
+
+# People v. Carvelto
+
+## Majority (Miller, J.:)
+
+Miller, J.:
+The defendant was convicted by the Court of Special Sessions of the crime of carrying concealed weapons and was sentenced to three months’ imprisonment in the Kings County Penitentiary. This appeal is from the judgment of conviction. The pertinent provisions of the Penal Code are as follows: “ § 410. * * * Any person over the age of sixteen years, who shall have or carry concealed upon his person in any city or village of this State, any pistol, revolver or other firearm without a written license therefor, theretofore issued to him by a police magistrate of such city or village, or in such manner as may bo prescribed by ordinance of such city or village, shall be guilty of a misdemeanor. * * * § 411. The possession, by any person other than a public officer, of any of the weapons specified in the last section, concealed or furtively carried on the person, is presumptive evidence of carrying, or concealing, or possessing, with intent to use the same in violation of that section.”
+The complainant, a police officer, testified on his direct examination that he arrested the defendant on Havy street, in front of a café, and that he saw the latter draw a loaded revolver from under his coat. On cross-examination he admitted that the defendant was inside the café; that the látter had the revolver in his hands when the witness saw him, but he subsequently reasserted having seen the defendant take the revolver from underneath his coat. The defendant testified that, having eaten his supper in the restaurant, as he was paying for it, he noticed the revolver in the money drawer, which the restaurant keeper had drawn out; that he asked to see it and was examining it when he was arrested by the officer. He is corroborated by the restaurant keeper.
+The question is thus presented whether the People met the burden of proving beyond a reasonable doubt that the weapon was concealed or furtively carried by the defendant on his person. In view of the contradictions in the complainant’s testimony, I do not think so. There is nothing in the attending circumstances to east doubt on the story told by the restaurant keeper and the defendant. In fact, the story is a probable one, and accounts for the defendant having the revolver in his hands at the time he was arrested. It is not claimed that any quarrel was taking place or that the defendant was doing anything except to examine- the pistol, and it is much more likely that he was looking at the pistol of some one else than that he had drawn his own from his pocket in.this public place, without any occasion whatever for so doing*. The officer does not say that he saw the defendant draw the revolver from his pocket. According to his testimony the defendant appeared to take it from beneath his coat, but the officer was in the street and the defendant was inside the café, fifteen feet away; and while the situation may have appeared to the officer as he describes it, he might easily have been mistaken. In fact, I think it is apparent from his testimony that he simply saw the revolver in the defendant’s hand; and while he may be sincere in thinking that he saw it taken from under the defendant’s coat, that is an inference on his part. At any rate, this uncertain testimony ought not to overcome positive testimony, particularly as the latter gives the most reasonable account of the transaction. The defendant was presumed to be innocent, and no presumption to the contrary could be indulged in until it was shown that the weapon was “ concealed or furtively carried on his person.”
+The judgment of conviction is reversed.
+Woodward, Jehics and Gaywor, JJ., concurred; Rich, J., dissented.
+Judgment of the Court of Special Sessions reversed and prisoner discharged.
