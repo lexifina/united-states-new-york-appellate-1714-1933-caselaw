@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1923-03-21"
+citations: ["40 N.Y. Crim. 286", "204 App. Div. 754", "204 A.D. 754"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. MARIANNA DOMENICO."]
+source_url: "https://static.case.law/ny-crim/40/cases/0286-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1226149
+cites_cases: ["133 App. Div. 103", "172 N. Y. 210", "184 App. Div. 575", "193 N. Y. 232", "198 N. Y. 566", "199 N. Y. 414", "212 N. Y. 393", "213 N. Y. 600", "55 N. Y. 565", "63 N. Y. 143", "64 Hun, 72"]
+---
+
+# People v. Domenico
+
+## Majority (Davis, J.:)
+
+Davis, J.:
+The defendant, indicted for robbery in the first degree, has been convicted of the crime of robbery in the third degree. There is sufficient evidence in the record to justify the verdict although the People’s evidence is strongly disputed and contradicted by many witnesses. It was for the jury and not for the court to determine the questions arising upon conflicting •evidence, and in the absence of anything indicating a misunderstanding by the jury of the questions involved, or of the importance or bearing of particular facts, or that they were affected by some bias or prejudice against the defendant, their conclusion that the defendant was guilty of a crime should not be set aside. (People v. Ferrara, 199 N. Y. 414.)
+In addition to the claim that the verdict is clearly against evidence, the appellant urges several allegations of error in asking for a reversal of the judgment. We deem but one sufficiently important to discuss, the one upon which the certificate of reasonable doubt was granted.
+Shortly after the crime was committed, the complaining witness Phillips went with police officers to the house where defendant resided. The latter, who had retired, was called downstairs. The testimony as to the language used and as to just what occurred at that time varies in its details as told by the different witnesses present. In substance it was that Phillips said something accusing the defendant as the man who robbed him. The defendant said, “Ho,” and dropped his head, and then as the charge was repeated, looked up and said Phillips would be sorry that he did anything about it, or would settle or pay dear for it. The appellant claims that evidence of this transaction was incompetent.
+Opinion evidence as to the conduct of the accused person may not ordinarily be received. (People v. Smith, 172 N. Y. 210, 229.) But his acts and declarations may be given if they may fairly be interpreted as an admission of connection with the crime or as inconsistent with innocence (Linsday v. People, 63 N. Y. 143, 154) ; and facts relative to conduct indicating guilt may be shown. (People v. Bosworth, 64 Hun, 72, 81.)
+Evidence of the fact that witnesses prior to the trial had pointed out or identified the person charged with the crime, where nothing was said between the person making the identification and the accused, has been held incompetent. (People v. Jung Hing, 212 N. Y. 393; People v. Seppi, 221 id. 62; People v. Cunneen, 184 App. Div. 575; People v. Frasco, 187 id. 299; People v. Ragazinsky, 195 id. 743; People v. Russell, 197 id. 239.) Such evidence is rejected on the ground that it is a self-serving performance of no probative value and may not be used to bolster up other evidence that tends to connect the defendant with the crime. Likewise, accusations made in defendant’s presence where he is not called upon to make denial and makes no intelligible response or denies connection with the crime, may not be given. (People v. Marendi, 213 N. Y. 600.) But if at the time such identification was made the accused should break, down and weep and say, “ Yes, you are right, I am the man, I did it, ’’ or use other equivalent language, I apprehend no one would claim the evidence of identification oi- accusation taken with the declarations of the accused, would be incompetent.
+The evidence was offered and received, it seems to me, not on the theory that the defendant was being identified, but as to his declarations and admissions which might be interpreted as evidence of guilt. Identification in the ordinary sense was not necessary. Phillips had spent a portion of the evening with defendant and was walking home with him when the alleged robbery occurred. The place where defendant resided was located by Phillips and the officers, and they went there to arrest him. The conversation, together with other acts and conduct of defendant leading to the discovery of certain money in the vest, which Phillips claimed was taken from him, might well be interpreted as pointing to the defendant’s guilt.
+Confessions of a defendant made under certain circumstances can be given in evidence against him. (Code Crim. Proc., § 395.) Statements and declarations not amounting to a confession but from which, in connection with other evidence of surrounding circumstances, an inference of guilt may be drawn, are admissible against the accused as admissions. (People v. Cahill, 193 N. Y. 232; People v. Cassidy, 133 id. 612; People v. Cosmides, 133 App. Div. 103; affd. 198 N. Y. 566; 16 C. J. 626.) Such admission in the face of accusation may be deemed to be made even by remaining silent (Kelley v. People, 55 N. Y. 565; People v. Collins, 234 id. 355) ; or responding merely with a shrug of the shoulders. (People v. Ferrara, supra, 424, 430; 16 C. J. 631.)
+It was for the jury to determine what was the true version of the conversation and conduct occurring at the time the defcndaut was arrested and the fair interpretation of such declarations and conduct. If they believed that Domenico made response to the accusation, saying that Phillips would he sorry for having made it, it rested with them to say whether his comment indicated righteous indignation at being wrongfully accused or a threat of vengeance for making a just accusation.
+We think this case clearly distinguishable from those already cited where evidence of identification was held incompetent; and find no error in the admission of evidence of the declarations and conduct of the defendant when accused of the crime.
+The judgment of conviction should be affirmed.
+All concur.
+Judgment of conviction affirmed.
