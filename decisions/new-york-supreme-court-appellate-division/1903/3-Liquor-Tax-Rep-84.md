@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, Appellate Division"
+decided: "1903-01"
+citations: ["3 Liquor Tax Rep. 84"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of New York ex rel. Samuel Sandman, Respondent, v. Fred H. Tuthill, a Justice of the Peace in and for the County of Suffolk, Appellant, Impleaded with Edgar . W. Steele."]
+source_url: "https://static.case.law/liquor-tax-rep/3/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1292220
+cites_cases: ["170 N. Y. 46", "79 App. Div. 24"]
+---
+
+# People ex rel. Sandman v. Tuthill
+
+## Majority (Woodward, J.:)
+
+Woodward, J.:
+The writ now under consideration absolutely prohibits and restrains the appellant, a justice of the peace of the county of Suffolk, from issuing any compulsory process of subpoena under a certain information previously laid before him by one Edgar W. Steele, a special excise agent of this State. The information is made upon information and belief “ that on or after the 1st day of May, 1901, at the town of Riverhead, in said County of Suffolk, one David Sandman and.other persons of said town of Riverhead, County of Suffolk, did commit the crime of misdemeanor in that they did at the time and place above named, unlawfully, wilfully and knowingly violate the Liquor Tax Law of the State of Hew York.” Acting upon this information subpoenas were issued and the relator, Sandman, was examined on each of six different days, and was subsequently committed for contempt in refusing to answer a certain question on the ground that it might tend to incriminate him. He was released from the county jail upon a ivrit of habeas corpus, on the ground that the information on which the proceeding rested was wholly insufficient, but the magistrate continued to take testimony under the information, and the necessary steps were taken to secure the writ appealed from.
+The question presented is whether the information on which the proceeding before the justice of the peace was instituted and conducted was sufficient to give jurisdiction. There. can be no reasonable question upon this point; the information does not comply with the letter or spirit of the statute. Section 148 of the Code of Criminal Procedure, which is the authority for the proceeding, if any, provides: “ When an information is laid before a magistrate, of the commission of a crime, he must examine on oath the informant or prosecutor, and any witnesses he may produce, and take their depositions in writing, and cause them to be subscribed by the parties making them.” It is not a compliance with this statute to declare generally that “the crime of misdemeanor ” has been committed on or after a given date, within a given township, by a violation of the Liquor Tax Law. The statute contemplates that the information shall set forth that a definite crime has been committed, not with all of the particularity of an indictment, but with sufficient definiteness so that the magistrate may know that some particular offense against the law is charged. This is evident from the provisions of section 149 of the Code of Criminal Procedure, which provides that “ The depositions must set forth the facts stated by the prosecutor and his witnesses, tending to establish the commission of the crime and the guilt of the defendant.” It is “ the crime ” which the depositions must tend to establish, and section 148 provides for information “ of the commission of a crime.” To make a general allegation that some one has been guilty of a violation of the Liquor Tax Law, a general statute providing the details regulating the sale of intoxicating liquors, and then to permit a general inquiry of the defendant and others as to the entire details of the conduct of the liquor business, would be an act so entirely hostile to our system of jurisprudence as to shock the sense of justice of English-speaking people generally. It would be, in effect, to make a man Ms own accuser, and to subject every detail of Ms business to judicial investigation at the whim or caprice of every person in the community. The statute may serve a useful purpose within reasonable limits, but to give it the construction demanded by the appellant is to make it an instrument of petty persecution, having no sanction in our system. The information must set" forth that “ a crime ” has been committed in order that the magistrate shall have jurisdiction, and we are clearly of opinion that the information before the justice in this proceeding did not meet the requirements of the law. (See People ex rel. Allen v. Hagan, 170 N. Y. 46, 51.)
+We are of opinion that under the provisions of section 2100 of" the Code of Civil Procedure the court had full power to make the-order appealed from.
+The order appealed from should be affirmed, with costs.
+Goodrich, P. 3.; Bartlett, Hirschberg and Jenks, JJ., concurred.
+Order affirmed, with ten dollars costs and disbursements.
